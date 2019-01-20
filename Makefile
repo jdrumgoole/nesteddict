@@ -33,3 +33,9 @@ init:
 	keyring set https://test.pypi.org/legacy/ jdrumgoole
 	keyring set https://upload.pypi.org/legacy/ jdrumgoole
 
+bumpminor:
+	bumpversion minor
+
+bumprelease:
+	bumpversion
+
