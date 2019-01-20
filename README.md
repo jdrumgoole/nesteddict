@@ -1,6 +1,6 @@
 # nesteddict
 
-`class collections.NestedDict([items])`
+`class collections.NestedDict(self, seq=None, **kwargs)`
 
 Return an instance of a dict subclass, supporting the usual dict
 methods. An NestedDict is a dict that that only supports keys of type
@@ -15,7 +15,8 @@ valid uses of `NestedDict` are:
 >>> a['x.y']
 {'z': 1}
 
-
-
-
 ```
+
+Non `str` keys will throw a `KeyError` exception.
+
+
