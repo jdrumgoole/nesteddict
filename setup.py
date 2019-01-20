@@ -13,12 +13,12 @@ from setuptools import find_packages, setup, Command
 
 # Package meta-data.
 NAME = 'nesteddict'
-DESCRIPTION = 'A sub-class of dict that allows nested key access e.g. a['a.b.c']'
+DESCRIPTION = "A sub-class of dict that allows nested key access e.g. a['a.b.c']"
 URL = 'https://github.com/jdrumgoole/nesteddict'
 EMAIL = 'joe@joedrumgoole.com'
 AUTHOR = 'Joe Drumgoole'
 REQUIRES_PYTHON = '>=3.5.0'
-VERSION = "0.1a1"
+VERSION = "0.1a2"
 
 # What packages are required for this module to be executed?
 REQUIRED = []

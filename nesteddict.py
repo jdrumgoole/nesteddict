@@ -1,16 +1,11 @@
-"""
-Created on 4 Apr 2017
-
-@author: jdrumgoole
-"""
-
-
 class NestedDict(dict):
     """
-    NestedDict
-    ===========
+
     A NestedDict is a dictionary in which nested objects can be accessed used
-    a dotted key notation.
+    a dotted key notation. It is a direct sub-class of `dict` and supports all the
+    standard `dict` operations. However you can created nested dict entries by
+    seperating the key string with dots '.'.
+
     Hence
 
     >>> a = NestedDict({"a":{"b":{"c":1}}})
@@ -21,6 +16,8 @@ class NestedDict(dict):
     >>> a['a.b.c']=2
     >>> a['a.b.c']
     2
+    >>> a["a.b"]
+    {'c': 1}
 
     Keys must be strings. Keys of other types will raise a KeyError exception.
 
@@ -165,22 +162,26 @@ class NestedDict(dict):
         self._apply_init(seq, **kwargs)
 
     def __contains__(self, key):
+        """`key in self` where is key is a str and may be dotted e.g. 'a.b.c'"""
 
         if not isinstance(key, str):
             raise ValueError(f"{key} is not a string type")
         return self._has_nested(self, key.split('.'))
 
     def __getitem__(self, key):
+        """Return item indexed by key"""
         if not isinstance(key, str):
             raise ValueError(f"{key} is not a string type")
         return self._get_nested(self, key.split('.'))
 
     def __setitem__(self, key, value):
+        """Set key to value where key can be dotted notation e.g. 'a.b.c'"""
         if not isinstance(key, str):
             raise ValueError(f"{key} is not a string type")
         self._set_nested(self, key.split('.'), value)
 
     def get(self, key, default_value=None):
+        """Return key or if key not present return `default_value`"""
         if not isinstance(key, str):
             raise ValueError(f"{key} is not a string type")
         try:
@@ -189,6 +190,7 @@ class NestedDict(dict):
             return default_value
 
     def has_key(self, key):
+        """key in self"""
         if not isinstance(key, str):
             raise ValueError(f"{key} is not a string type")
         try:
@@ -197,11 +199,14 @@ class NestedDict(dict):
             return False
 
     def __delitem__(self, key):
+        """Remove key from collection"""
         if not isinstance(key, str):
             raise ValueError(f"{key} is not a string type")
         self._del_nested(self, key.split('.'))
 
     def pop(self, key, default_value=None):
+        """Remove key and return value associated with key. if key not present
+        return `default_value`"""
         if not isinstance(key, str):
             raise ValueError(f"{key} is not a string type")
         try:
@@ -213,6 +218,7 @@ class NestedDict(dict):
         return v
 
     def popitem(self, key):
+        """Return the last item added to the dict and remove the item"""
         if not isinstance(key, str):
             raise ValueError(f"{key} is not a string type")
         v = self._get_nested(self, key.split('.'))
@@ -221,10 +227,12 @@ class NestedDict(dict):
 
     def update(self, E=None, **F):  # known special case of dict.update
         """
-        D.update([E, ]**F) -> None.  Update D from dict/iterable E and F.
-        If E is present and has a .keys() method, then does:  for k in E: D[k] = E[k]
-        If E is present and lacks a .keys() method, then does:  for k, v in E: D[k] = v
-        In either case, this is followed by: for k in F:  D[k] = F[k]
+        `D.update([E, ]**F) -> None`.  Update D from dict/iterable E and F.
+        If E is present and has a .keys() method, then does:  `for k in E: D[k] = E[k]`
+        If E is present and lacks a .keys() method, then does:  `for k, v in E: D[k] = v`
+        In either case, this is followed by: `for k in F:  D[k] = F[k]`
+
+        In all cases non `str` keys will throw a KeyError exception.
         """
         return self._apply_init(E, **F)
 

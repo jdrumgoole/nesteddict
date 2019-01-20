@@ -81,6 +81,7 @@ class TestNestedDict(unittest.TestCase):
         self.assertEqual(x.get('a'), {"b": 1})
         del x['a.b']
         self.assertTrue('a' in x)
+        self.assertFalse('a.b' in x)
         x = NestedDict({"a": {"b": 1}})
         del x['a']
         self.assertFalse('a.b' in x)

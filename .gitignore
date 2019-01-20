@@ -105,3 +105,4 @@ venv.bak/
 
 #Intellij
 .idea/
+.DS_Store

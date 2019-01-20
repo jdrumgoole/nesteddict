@@ -7,6 +7,9 @@ verify_ssl = true
 
 [packages]
 nose = "*"
+sphinx = "*"
+keyring = "*"
+twine = "*"
 
 [requires]
 python_version = "3.6"
