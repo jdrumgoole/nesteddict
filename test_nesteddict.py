@@ -49,7 +49,7 @@ class TestNestedDict(unittest.TestCase):
         self.assertTrue("a.b" in x)
         self.assertTrue("a.b.c" in x)
         self.assertEqual(3, x['a.b.c'])
-        self.assertEqual(1, x['a'])
+        self.assertNotEqual(1, x['a'])
 
     def test_in(self):
         x = NestedDict({"a": {"b": 1}})
