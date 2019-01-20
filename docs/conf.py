@@ -24,9 +24,10 @@ project = 'nesteddict'
 author = 'Joe Drumgoole'
 
 # The short X.Y version
-version = '0.1'
+VERSION= '0.1.1.alpha'
+version = VERSION
 # The full version, including alpha/beta/rc tags
-release = '0.1a2'
+release = VERSION
 
 
 # -- General configuration ---------------------------------------------------

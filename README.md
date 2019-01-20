@@ -1,5 +1,7 @@
 # nesteddict
 
+VERSION=0.1.1.alpha
+
 `class collections.NestedDict(self, seq=None, **kwargs)`
 
 Return an instance of a dict subclass, supporting the usual dict

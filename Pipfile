@@ -10,6 +10,7 @@ nose = "*"
 sphinx = "*"
 keyring = "*"
 twine = "*"
+bumpversion = "*"
 
 [requires]
 python_version = "3.6"
