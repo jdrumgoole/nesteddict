@@ -18,7 +18,7 @@ URL = 'https://github.com/jdrumgoole/nesteddict'
 EMAIL = 'joe@joedrumgoole.com'
 AUTHOR = 'Joe Drumgoole'
 REQUIRES_PYTHON = '>=3.5.0'
-VERSION = "0.1.2a3"
+VERSION = "0.1.3"
 
 # What packages are required for this module to be executed?
 REQUIRED = []
