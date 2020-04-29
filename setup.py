@@ -18,7 +18,7 @@ URL = 'https://github.com/jdrumgoole/nesteddict'
 EMAIL = 'joe@joedrumgoole.com'
 AUTHOR = 'Joe Drumgoole'
 REQUIRES_PYTHON = '>=3.5.0'
-VERSION = "0.1.2a2"
+VERSION = "0.1.2a3"
 
 # What packages are required for this module to be executed?
 REQUIRED = []
@@ -125,7 +125,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'dld=nesteddict.dictlistdict:main',
+            'dld=dictlistdict:main',
             # 'splitfile=pymongoimport.splitfile:split_file_main',
             # 'pymultiimport=pymongoimport.pymongomultiimport_main:multi_import',
             # 'pwc=pymongoimport.pwc:pwc',
