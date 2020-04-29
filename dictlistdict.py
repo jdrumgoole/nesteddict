@@ -62,8 +62,7 @@ def iterate_args(files, output_file, encoding, separator):
         else:
             print(f"Ignoring file: {f} unrecognised extension {ext}")
 
-if __name__ == "__main__":
-
+def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--decodejson', nargs='*')
     parser.add_argument('--decodetext', nargs='*')
@@ -99,4 +98,5 @@ if __name__ == "__main__":
     if output_file:
         print(f"Output written to {args.output}")
 
-
+if __name__ == "__main__":
+    main()
