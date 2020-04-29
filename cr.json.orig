@@ -1,0 +1,1828 @@
+{
+  "FEATURES_LINK_TEXT": "Features",
+  "LOGIN_LINK_TEXT": "Login",
+  "REGISTER_LINK_TEXT": "Sign up",
+  "LOGIN_PAGE_TAGLINE": "Login to Chasing Returns",
+  "EMAIL_INPUT_LABEL": "Email",
+  "PASSWORD_INPUT_LABEL": "Password",
+  "TWITTER_INPUT_LABEL": "Twitter @username",
+  "RECOVER_PASSWORD_LINK_TEXT": "Forgot your password?",
+  "REGISTER_PAGE_TAGLINE": "Sign up for Chasing Returns",
+  "NAME_INPUT_LABEL": "Name",
+  "YOU_ACCEPT_TERMS": "By registering, you accept the",
+  "YOU_ACCEPT_TERMS_CONNECTING": "By connecting, you accept the",
+  "AND": "and",
+  "TERMS_AND_CONDITIONS": "Terms & Conditions",
+  "P_POLICY": "Privacy Policy",
+  "WELCOME": "Welcome to Chasing Returns",
+  "REMEMBER_TO_UPLOAD": "Your last trade in the platform was executed on {date}. If you have closed other trades since then, remember to upload a new trade log for best results!",
+  "CONTINUE": "Continue",
+  "SAVE": "Save",
+  "CHECKING_FOR_TRADELOGS_MESSAGE": "Checking for previously existing tradelogs...",
+  "UPLOAD_LINK_TEXT": "Import",
+  "DASHBOARD_LINK_TEXT": "Dashboard",
+  "GOALS_LINK_TEXT": "Goals",
+  "GAMEPLAN_LINK_TEXT": "Gameplan",
+  "MENU_BUTTON_TEXT": "Menu",
+  "LOGOUT_BUTTON_TEXT": "Logout",
+  "FILTER_PERFORMANCE_HEADING": "Performance",
+  "FILTER_TAG_HEADING": "Tag",
+  "TOP_5_LABEL": "Best 5%",
+  "MID_90_LABEL": "Middle 90%",
+  "BOTTOM_5_LABEL": "Worst 5%",
+  "NONE_LABEL": "None",
+  "FILTER_PRODUCT_HEADING": "Product",
+
+  "PLOTLINE_LABEL": "Goal",
+
+  "CHART_TYPE_TITLES": {
+    "EXPECTED_PNL": "Expected P&L per trade",
+    "AVG_PNL":  "Average P&L per trade",
+    "AVG_TIME_IN_TRADES": "Avg Time in Trades",
+    "RR_RATIO": "Risk Reward Ratio",
+    "BATTING_AVG": "Win Rate",
+    "DISCIPLINE_RATIO": "Discipline Ratio",
+    "EXPECTANCY": "Performance",
+    "CUMULATIVE": "Cumulative",
+    "CUMULATIVE_PNL": "Cumulative P&L",
+    "CUMULATIVE_PNL_BY_DISCIPLINE": "Cumulative P&L by Discipline",
+    "CUMULATIVE_PNL_GREATER": "Cumulative P&L >= 0",
+    "CUMULATIVE_PNL_LESSER": "Cumulative P&L < 0",
+    "SCATTER": "Scatter",
+    "RISK_REWARD": "Risk:Reward",
+    "R_R": "R:R",
+    "R_R_ZERO": "Risk Reward: 0",
+    "PNL": "P&L",
+    "TOTAL_PNL": "P&L",
+    "DISPOSITION": "Disposition",
+    "DISPOSITION_RATIO": "Disposition Ratio",
+    "INFERRED_PNL": "Inferred P&L",
+    "OUTLIERS_PNL": "Outliers P&L",
+    "NUMBER_OF_TRADES": "Number of Trades"
+  },
+
+  "CHART_SIDEBAR": {
+    "STATISTICS": "Statistics",
+    "NO_EDGE_MESSAGE": "There are no clear positive or negative habits yet."
+  },
+
+  "TRADE_PROPERTY_LABELS": {
+    "QUARTER": "Quarter",
+    "ENTRY_DATE": "Entry Date",
+    "ENTRY_TIME": "Entry Time",
+    "ENTRY_DAY_WEEK": "Entry Day of Week",
+    "LONG_SHORT": "L/S",
+    "SIZE": "Size",
+    "PRODUCT": "Product",
+    "ENTRY_PRICE": "Entry Price",
+    "EXIT_DATE": "Exit Date",
+    "EXIT_TIME": "Exit Time",
+    "EXIT_DAY_WEEK": "Exit Day of Week",
+    "EXIT_PRICE": "Exit Price",
+    "NET_PNL": "P&L",
+    "STRATEGY": "Strategy",
+    "TAGS": "Tags",
+    "OPEN_PLAN": "Open Plan",
+    "CLOSE_PLAN": "Close Plan",
+    "EMOTION": "Emotion",
+    "OUTLIERS": "Outliers",
+    "DURATION": "Duration",
+    "DURATION_SEC": "Duration (sec)",
+    "POSITION": "Position",
+    "DATE": "Date",
+    "TIME": "Time",
+    "INFERRED_PNL": "Inferred P&L",
+    "GROSS_PNL": "Gross P&L",
+    "TOTAL_FEES": "Total Fees",
+    "CUMULATIVE_PNL": "Cumulative P&L",
+    "DRAWDOWN": "Drawdown",
+    "UNREALIZED_PNL": "Unrealized P&L"
+  },
+
+  "UPLOAD_ZONE_MESSAGE": {
+    "FIRST_WORD": "Select",
+    "REST": "or drag and drop your file here"
+  },
+
+  "DL_SAMPLE_BUTTON_TEXT": "Download Sample",
+  "HELP_BUTTON_TEXT": "Export Instructions",
+  "IG_HELP_BUTTON_TEXT": "How to retrieve IG tradelogs",
+  "UPLOADING_INDICATION_TEXT": "Uploading...",
+  "REJECT_FILETYPE_MESSAGE": "Make sure you're uploading a valid CSV file with a file extension of <em>.csv</em>.",
+  "SOMETHING_WRONG_ERROR_MESSAGE": "Something went wrong. See our help for more info on uploading your file or contact us at",
+  "FREE_TRIAL_COUNTDOWN": {
+    "TAGLINE": "Free for {days} more days!",
+    "DESCRIPTION": "Access to the Gameplan will require a premium Chasing Returns account once your free trial has run up, but in the meantime you can enjoy this feature completely free!",
+    "NEW_DESCRIPTION": "Now find your trading edge."
+  },
+
+  "ANALYSING_HISTORY_MESSAGE": "Analysing your trade history...",
+  "OK_BUTTON_TEXT": "OK",
+  "PEAK_PERFORMANCE": "Peak Performance",
+  "RELIABILITY": "Reliability",
+
+  "EDGE_TITLES": {
+    "overview": "Edge Overview",
+    "tasDuration": "Conviction Duration",
+    "tasStrength": "Conviction Strength",
+    "timeDay": "Time of Day",
+    "timeDayFixed": "Time of Day",
+    "size": "Trade size",
+    "assetClass": "Asset Class",
+    "dayWeekEntry": "Day of the Week",
+    "tradeDuration": "Trade Duration",
+    "tradeDurationStyle": "Trade Duration",
+    "tradeDurationDay": "Trade Duration",
+    "velocityEntry": "Time between Trades",
+    "firstTradeDay": "First Trade of the Day",
+    "longShort": "Long Short",
+    "intradayConsecutiveWinnersLosersOverviewEntry": "Streaks",
+    "consecutiveWinnersEntry": "Winning Streaks",
+    "consecutiveLosersEntry": "Losing Streaks",
+    "parallelOpenTrades": "Parallel Open Trades",
+    "parallelOpenProductsEntry": "Parallel Open Products",
+    "parallelOpenProductsOverviewEntry": "Multiple Positions",
+    "intradayVelocityEntry": "Time Between Trades",
+    "intradayVelocityOverviewEntry": "Time Between Trades",
+    "intradayTradeFrequencyEntry": "Trade Sequence",
+    "intradayTradeFrequencyOverviewEntry": "First Trade Of The Day",
+    "intradayConsecutiveWinnersEntry": "Winning Streaks",
+    "intradayConsecutiveLosersEntry": "Losing Streaks",
+    "products": "Products",
+    "halfHoursEntry": "Half Hour",
+    "hoursEntry": "Hour",
+    "tags": "My Tags",
+    "byTime": "Over Time",
+    "monthsEntry": "Month",
+    "intraday": "Intraday",
+    "swing": "Swing",
+    "tradelog": "Trade Journal",
+    "navigator": "Paths to Profitability",
+    "navigatorOanda": "P/L Insights",
+    "quartiles": "Quartiles",
+    "marketVolatilityEntry": "Entry Market Volatility",
+    "marketVolatilityExit": "Exit Market Volatility",
+    "nfpEntry": "NFP",
+    "nfpExit": "Exit NFP",
+    "accountByTime": "Account P&L",
+    "edgeOverview": "Overview"
+  },
+
+  "UPLOAD_HELP": {
+    "TITLE": "Importing your trade history from {broker}",
+    "GENERIC": {
+      "TITLE": "Importing your trade history using custom upload",
+      "STEP_1_TEXT": "If you are currently not trading on one of our supported brokers, you can still take advantage of our trade log analysis.",
+      "STEP_2_TEXT": "To do this, you need to save your trade log in the below format.",
+      "STEP_3_TEXT": "There is a sample on the Upload screen to help you, simply select 'Download Sample', replace the sample data with your own, and ensure that each row has consistent formats — particularly date and time formats.",
+      "STEP_4_TEXT": "This upload supports and ONE of the following currencies: EUR, GBP, USD. All trades must be in the same currency.",
+      "STEP_5_TEXT": "If you have any difficulty please email support@chasingreturns.com and we will be happy to help.",
+      "STEP_6_TEXT": "Note: If you are saving your CSV from Excel on Mac OS X, please make sure to choose the option 'Save as Windows Comma Separated (.csv)' to avoid issues.",
+      "STEP_7_TEXT": "Optional: You are able to tag strategy. Create a new column after the default ones and tag as 'Strategy A', 'Strategy B' or 'Strategy C'."
+    },
+    "IG": {
+      "TITLE": "Importing your trade history from IG",
+      "STEP_1_TEXT": "Login to your IG account.",
+      "STEP_2_TEXT": "Select the account you want to export data from.",
+      "STEP_3_TEXT": "Select 'History' from the left panel.",
+      "STEP_4_TEXT": "Select 'Transactions' in the show menu and select the desired export period.",
+      "STEP_5_TEXT": "Click the 'Download History' button.",
+      "STEP_6_TEXT": "Log in to your Chasing Returns account, select 'Import' on the menu and click on 'Select' as shown below.",
+      "STEP_7_TEXT": "The 'Open' dialog box pops up. Choose your trade history file and click on 'Open'.",
+      "STEP_8_TEXT": "If you need any help, please contact support@chasingreturns.com.",
+      "UPLOAD_NOTE_TEXT": "Note: IG has a limit of 1000 trades per download. You can use the custom date filter to download in batches and get all of your trades."
+    },
+    "CMC": {
+      "STEP_1_TEXT": "Login to your CMC account and click on the 'History' tab.",
+      "STEP_2_TEXT": "On the filter panel under 'History' click the 'Reset' button.",
+      "STEP_3_TEXT": "Change the date range filter on the left to 'Last 12 months' or choose a custom selection if you have trades going back further.",
+      "STEP_4_TEXT": "Click on the CSV icon as demonstrated below to download your trading history as a CSV document.",
+      "STEP_5_TEXT": "Log in to your Chasing Returns account, select 'Import' on the menu and click on 'Select' as shown below.",
+      "STEP_6_TEXT": "The 'Open' dialog box pops up. Choose your trade history file and click on 'Open'.",
+      "STEP_7_TEXT": "If you need any help, please contact support@chasingreturns.com."
+    },
+    "ETX": {
+      "STEP_1_TEXT": "Login to your ETX Account.",
+      "STEP_2_TEXT": "Select the 'History' tab and click on 'Closed Positions'.",
+      "STEP_3_TEXT": "Click on the 'CSV' icon on the right as demonstrated below to download your trading history as a CSV document.",
+      "STEP_4_TEXT": "Log in to your Chasing Returns account, select 'Import' on the menu and click on 'Select' as shown below.",
+      "STEP_5_TEXT": "The 'Open' dialog box pops up. Choose your trade history file and click on 'Open'.",
+      "STEP_6_TEXT": "If you need any help, please contact support@chasingreturns.com."
+    },
+    "CORESPREADS": {
+      "STEP_1_TEXT": "Login to your Core Spreads CoreTrader Platform.",
+      "STEP_2_TEXT": "Select Account History in the center panel.",
+      "STEP_3_TEXT": "On your first upload, select the date range from the beginning of your trading to today. On subsequent uploads you can select smaller date ranges.",
+      "STEP_4_TEXT": "Select Download then save your trade log in a local directory.",
+      "STEP_5_TEXT": "Log into Chasing Returns and from the dashboard select Import, select CoreSpreads and drop your trade log into the CoreSpreads icon.",
+      "STEP_6_TEXT": "You will now be brought to your personal dashboard.",
+      "STEP_7_TEXT": "If you need support, please contact support@chasingreturns.com."
+    },
+    "METATRADER4": {
+      "STEP_1_TEXT": "Login to your MetaTrader 4 Platform account.",
+      "STEP_2_TEXT": "Select the tab 'Account History' in the center panel.",
+      "STEP_3_TEXT": "Right-click in your Account History tab and select 'All History'. On subsequent uploads you can select smaller date ranges.",
+      "STEP_4_TEXT": "Right-click again, select the option 'Save as Report', then save your trade log in a local directory.",
+      "STEP_5_TEXT": "Login to Chasing Returns, click Import on the bottom left and click 'Upload Trade History' at the bottom.",
+      "STEP_6_TEXT": "Drop your HTML statement into the import box.",
+      "STEP_7_TEXT": "If you need any help, please contact support@chasingreturns.com."
+    },
+    "FXCM": {
+      "STEP_1_TEXT": "Login to your FXCM Trading Station account.",
+      "STEP_2_TEXT": "Go to the 'Report' menu, select 'Since Open' and click 'Run Report'.",
+      "STEP_3_TEXT": "After your report is generated, a browser window will open with your trading history. Right-click inside the window, select the option 'Save As', then save your trade log in a local directory (make sure you are saving it as an HTML file).",
+      "STEP_4_TEXT": "Log in to your Chasing Returns account, select 'Import' on the menu and click on 'Select' as shown below.",
+      "STEP_5_TEXT": "The 'Open' dialog box pops up. Choose your trade history file and click on 'Open'.",
+      "STEP_6_TEXT": "If you need any help, please contact support@chasingreturns.com."
+    },
+    "INFINITY_FUTURES": {
+      "STEP_1_TEXT": "Login to your Infinity Futures Platform account.",
+      "STEP_2_TEXT": "Open Infinity Charts and go to Trade > Trade Activity Log (Or Ctrl + Shift + A).",
+      "STEP_3_TEXT": "Select the tab 'Trades'.",
+      "STEP_4_TEXT": "Make sure you select 'All Symbols', 'Long & Short', the correct date range and account.",
+      "STEP_5_TEXT": "Go to File > Save Log As.",
+      "STEP_6_TEXT": "Save your trade log where suits you better.",
+      "STEP_7_TEXT": "Log into Chasing Returns and from the dashboard select Import, select Infinity Futures, drop your trade log into the Infinity Futures box.",
+      "STEP_8_TEXT": "You will now be brought to your personal dashboard.",
+      "STEP_9_TEXT": "If you need support, please contact support@chasingreturns.com."
+    },
+    "INTERACTIVE_BROKERS": {
+      "STEP_1_TEXT": "Login to your Interactive Brokers Platform account.",
+      "STEP_2_TEXT": "Go to Account > Activity > Activity Statement.",
+      "STEP_3_TEXT": "Select the statement default, the date range you want to export your history, make sure the format selected is 'HTML/WEB' and click the 'View' button.",
+      "STEP_4_TEXT": "Right-click, select the option 'Save as', then save your trade log in a local directory.",
+      "STEP_5_TEXT": "Log into Chasing Returns and from the dashboard select Import, select Interactive Brokers and drop your trade log into the Interactive Brokers box.",
+      "STEP_6_TEXT": "You will now be brought to your personal dashboard.",
+      "STEP_7_TEXT": "If you need support, please contact support@chasingreturns.com.",
+      "STEP_TEMP_TEXT": "Email the file to support@chasingreturns.com and we will send you a Custom file for importing."
+    },
+    "TRADING_TECHNOLOGIES": {
+      "STEP_1_TEXT": "From your Fill Window, move these 7 fields to the left, in the following order. Exch Time, Product, B/S, Qty, Price, Exch Date, Fill Key",
+      "STEP_2_TEXT": "Open the ChasingReturnsTemplate spreadsheet, and paste all the fills into the file.",
+      "STEP_3_TEXT": "Select “Save As CSV (Comma Delimited)” and choose a file name.",
+      "STEP_4_TEXT": "Log into Chasing Returns.",
+      "STEP_5_TEXT": "Choose Import (Top Right)",
+      "STEP_6_TEXT": "Choose Trading Technologies",
+      "STEP_7_TEXT": "Drag your fill CSV file into this screen, and automatic import into the platform",
+      "STEP_8_TEXT": "You will now be brought to your personal dashboard.",
+      "STEP_9_TEXT": "If you need support, please contact support@chasingreturns.com."
+    },
+    "CTRADER": {
+      "STEP_1_TEXT": "Login to your cTrader account.",
+      "STEP_2_TEXT": "Select the 'History' tab, and select 'All History' under Period. If 'All History' option is unavailable, you can enable it through Settings -> General -> Allow all Hhstory.",
+      "STEP_3_TEXT": "Right click on any of the column headers and select all fields. Click on the 'Statement' button on the right.",
+      "STEP_4_TEXT": "After your statement is generated, a browser window will open with your trading history. Click on the 'Save' button, as shown below.",
+      "STEP_5_TEXT": "Log in to your Chasing Returns account, select 'Import' on the menu and click on 'Select' as shown below.",
+      "STEP_6_TEXT": "The 'Open' dialog box pops up. Choose your trade history file and click on 'Open'.",
+      "STEP_7_TEXT": "If you need any help, please contact support@chasingreturns.com."
+    }
+  },
+  "TERMS_CONDITIONS": {
+    "TITLE": "Terms & Conditions",
+    "PARAGRAPH_1": "Chasing Returns provides software generated metrics. It is impersonal. We are not a broker-dealer or an investment adviser.",
+    "PARAGRAPH_2": "The information provided is informational only. None of the information is intended as advice, as an offer to solicitation of an offer to sell or buy, or as a recommendation to change your trading or investment strategy.",
+    "PARAGRAPH_3": "We cannot guarantee the adequacy, accuracy or completeness of any information, or its suitability for use as potential investment/trading strategy."
+  },
+  "PRIVACY_POLICY": {
+    "TITLE": "Privacy Policy",
+    "PARAGRAPH_1": "Chasing Returns requests personal information such as name, email address, geographical region, as well as your personal trading records.",
+    "PARAGRAPH_2": "We use industry standard security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.",
+    "PARAGRAPH_3": "We will not share, rent or sell your information with any third party. Some information may be used in an aggregated and anonymized way to generate publicly available high-level insights.",
+    "PARAGRAPH_4": "We only use the information for the purpose it was collected, and we will honour requests to have all data updated or removed from the service within 30 days of the request, excepting data necessary to meet our legal obligations."
+  },
+  "ERR_INCONSISTENT_FORMAT_TEXT": "Inconsistent formatting for {fieldName}; Value: {fieldValue}",
+  "ERR_UNSUPPORTED_FORMAT_TEXT": "Unsupported format",
+  "ERR_DATE_ORDER_TEXT": "Entry date/time shouldn't be later than exit date/time",
+  "ERR_NETWORK_TEXT": "You seem to be having network issues; try again in a few moments.",
+
+  "OR": "or",
+
+  "VERIFYING_EMAIL": "Verifying your email address...",
+  "PROBLEM_VERIFYING_EMAIL": "There was a problem verifying that email address!",
+
+  "DO_SAMPLE_FIRST": "Click here to explore Chasing Returns features using sample data",
+  "DO_UPLOAD_FIRST": "Click here to upload your trade history",
+  "DONT_SHOW_AGAIN": "Don't show this again",
+
+  "ERR_UNKNOWN_MSG": "Check your email or password and try again.",
+  "ERR_EMAIL_REQUIRED_MSG": "You forgot to enter an email address!",
+  "ERR_EMAIL_INVALID_MSG": "That email address isn't valid!",
+  "ERR_PASS_REQUIRED_MSG": "You forgot to enter your password!",
+  "ERR_NAME_REQUIRED_MSG": "You forgot to enter a name!",
+  "ERR_TWITTER_USERNAME": "Are you sure? Twitter usernames have the format @sample",
+
+  "CHECK_YOUR_EMAIL": "Check your email",
+  "CHECK_YOUR_EMAIL_P1": "We've sent you an email containing a link to verify your email address. You must do this before you'll be able to login.",
+  "CHECK_YOUR_EMAIL_P2": "In case you don't get this email within a few minutes, check your spam folder. You may also add support@chasingreturns.com to your contacts in order to prevent this in future.",
+
+  "NOT_ENOUGH_HISTORY": "You do not have enough trade history to generate edges. Go back to the",
+  "FREE_TRIAL_OVER": "Your free trial period has run out; upgrade to Chasing Returns Premium to see your Gameplan!",
+  "UPLOAD_SOME": "to upload some.",
+
+  "SIGNUP_ERR_MSGS": {
+    "CHECK_DETAILS": "Check your details and try again."
+  },
+
+  "RESET_YOUR_PASSWORD": "Reset your password",
+  "CHECK_EMAIL_FOR_LINK": "Check your email for a link to reset your password",
+  "CHECK_EMAIL_RETRY": "Check your email address and try again.",
+  "PASSWORDS_NOT_MATCHING": "Passwords must match.",
+  "SEND_RESET_LINK": "Send reset link",
+  "CONFIRM_PASSWORD": "Confirm password",
+  "NEED_TO_CONFIRM_PASSWORD": "Confirm your new password",
+
+  "IMPORT": "Import",
+  "GET_INSTANT_ACCESS": "Get instant access to your trading metrics.",
+  "SELECT_YOUR_BROKER_IMPORT": "Select your broker to import your trade history.",
+  "WHERE_WANT_IMPORT": "Where do you want to import your trades from?",
+  "CUSTOM": "Custom",
+  "TRANSACTION_HISTORY": "Transaction History",
+  "ORDER_HISTORY": "Order History",
+  "UPLOAD_PAGE_TITLE": "IMPORT your latest trade log here",
+  "COMING_SOON": "Coming soon!",
+  "LOAD_TRADES_FROM": "Load trades from",
+
+  "FREE_TRIAL_COMPLETED": "Your free trial has now completed",
+  "FURTHER_ACCESS_SUBSCRIBE_BELOW": "For further access to the Chasing Returns Gameplan please subscribe below",
+  "PAYMENT": "Payment",
+  "CARD_NUMBER": "Card Number",
+  "EXPIRY_MONTH": "Expiry Month",
+  "EXPIRY_YEAR": "Expiry Year",
+  "PROMOTIONS": "Promotions",
+  "TYPE": "Type",
+  "DISCOUNTS_VOUCHERS": "Discounts & Vouchers",
+  "DISCOUNT_CODE_INVALID": "Oops, it looks like that discount code is invalid!",
+  "UPGRADE_99_MONTH": "Upgrade for €49/month",
+  "POTENTIAL_IMPROVEMENT": "Potential Improvement",
+
+  "TIME": {
+    "MINUTES": "minutes",
+    "WKS": "wks",
+    "DAYS": "days",
+    "HRS": "hrs",
+    "MINS": "mins",
+    "SECS": "secs",
+    "WK": "wk",
+    "DAY": "day",
+    "HR": "hr",
+    "MIN": "min",
+    "SEC": "sec"
+  },
+
+  "WEEK_DAYS": {
+    "SUNDAY": "Sunday",
+    "MONDAY": "Monday",
+    "TUESDAY": "Tuesday",
+    "WEDNESDAY": "Wednesday",
+    "THURSDAY": "Thursday",
+    "FRIDAY": "Friday",
+    "SATURDAY": "Saturday"
+  },
+
+  "MONTH_YEAR": {
+    "JANUARY": "January",
+    "FEBRUARY": "February",
+    "MARCH": "March",
+    "APRIL": "April",
+    "MAY": "May",
+    "JUNE": "June",
+    "JULY": "July",
+    "AUGUST": "August",
+    "SEPTEMBER": "September",
+    "OCTOBER": "October",
+    "NOVEMBER": "November",
+    "DECEMBER": "December"
+  },
+
+  "METRIC": {
+    "SUNDAY": "Sunday",
+    "MONDAY": "Monday",
+    "TUESDAY": "Tuesday",
+    "WEDNESDAY": "Wednesday",
+    "THURSDAY": "Thursday",
+    "FRIDAY": "Friday",
+    "SATURDAY": "Saturday",
+    "FIRST_TRADE_OF_THE_DAY": "First trade of the day",
+    "OTHERS": "Others",
+    "LONG": "Long",
+    "SHORT": "Short",
+    "FIRST_TRADE": "First Trade",
+    "NONE": "None",
+    "JANUARY": "January",
+    "FEBRUARY": "February",
+    "MARCH": "March",
+    "APRIL": "April",
+    "MAY": "May",
+    "JUNE": "June",
+    "JULY": "July",
+    "AUGUST": "August",
+    "SEPTEMBER": "September",
+    "OCTOBER": "October",
+    "NOVEMBER": "November",
+    "DECEMBER": "December",
+    "LATER_TRADES": "Later trades",
+    "SLOWER_RE-ENTRY": "Slower re-entry",
+    "FAST_RE-ENTRY": "Fast re-entry",
+    "OPENED_AFTER_WINNERS": "Opened after winners",
+    "OPENED_AFTER_LOSERS": "Opened after losers",
+    "OPENED_IN_NEUTRAL": "Opened in neutral",
+    "SINGLE_POSITION": "Single position",
+    "MULTIPLE_POSITIONS": "Multiple positions",
+    "DAY_TRADES": "Day trades",
+    "SWING_TRADES": "Swing trades",
+    "POSITIONAL_TRADES": "Positional trades",
+    "UNDER_1H": "Less than 1 hour",
+    "1_TO_4H": "1 to 4 hours",
+    "4_TO_24H": "4 to 24 hours",
+    "OVER_24H": "More than 24 hours",
+    "MORNING": "Morning",
+    "AFTERNOON": "Afternoon",
+    "EVENING": "Evening",
+    "LESS_THAN": "Less than",
+    "MORE_THAN": "More than"
+  },
+
+  "RATIO": "Ratio",
+  "UP_TO": "up to",
+  "WINNERS": "Winners",
+  "LOSERS": "Losers",
+
+  "CHART_TYPE_DETAILS": {
+    "TRADE_COUNT": "Trade Count",
+    "AVG_WIN": "Avg Win",
+    "AVG_LOSS": "Avg Loss",
+    "TIME_WINNERS": "Avg Time in Winners",
+    "TIME_LOSERS": "Avg Time in Losers",
+    "TRADES": "Trades",
+    "RELIABILITY": "Reliability",
+    "DISCIPLINE": "Discipline",
+    "AVG_PNL": "Avg P&L",
+    "DISPOSITION": "Disposition",
+    "TOTAL_P&L": "P&L",
+    "TOTAL_PNL": {
+      "OF_TRADES": "of trades",
+      "ACCOUNT_FOR": "account for",
+      "OF_PNL": "of P&L",
+      "RETURNED": "returned",
+      "IN_PNL": "in P&L"
+    },
+    "AVERAGE_PNL": "Average P&L",
+    "INFERRED_PNL": "Inferred P&L",
+    "BATTING_AVG": "Win Rate",
+    "RISK_REWARD": "Risk:Reward",
+    "AVG_WINNING": "Avg Winning P&L",
+    "AVG_LOSING": "Avg Losing P&L",
+    "WINNING_PNL": "Winning P&L",
+    "LOSING_PNL": "Losing P&L",
+    "OUTLIERS": {
+      "NUMBER_BOTTOM": "Worst 5%",
+      "NUMBER_TOP": "Best 5%"
+    },
+    "GROSS_PNL": "Gross P&L",
+    "TOTAL_FEES": "Total Fees",
+    "FEE_1": "Funding",
+    "FEE_2": "Commission",
+    "FEE_3": "CR Premium",
+    "FEE_4": "GST",
+    "FEE_5": "Borrowing",
+    "FEE_6": "Dividends",
+    "FEE_7": "Corrections",
+    "FEE_8": "FX Interest",
+    "FEE_9": "Other Fees",
+    "LOSING_TRADES": "Losing Trades",
+    "WINNING_TRADES": "Winning Trades",
+    "ALL_TRADES": "All Trades",
+    "AVERAGE_DURATION": "Average Duration",
+    "EXPECTANCY": "Performance"
+  },
+
+  "OUTLIERS": "Impact of your best and worst trades on P&L",
+  "CLEAR": "clear",
+
+  "CANCEL_SUBSCRIPTION": {
+    "TITLE": "Cancel Subscription",
+    "PARAGRAPH_ASK_CANCEL": "You can cancel your subscription at any time. Doing so will result in losing access to premium features <strong>after your current subscription period has run its course</strong>.",
+    "PARAGRAPH_CONFIRM_CANCEL": "Your Chasing Returns Premium subscription has been successfully cancelled; you'll still have access to Premium features until the end of your current subscription period.",
+    "PARAGRAPH_ERROR_CANCEL": "There was a problem processing your cancellation. Try again in a few minutes or contact",
+    "CANCEL_MY_SUBS": "Cancel my Subscription",
+    "GO_BACK": "Go Back",
+    "CONFIRM": "Confirm"
+  },
+
+  "HELP": {
+    "Dashboard": {
+      "trades": {
+        "TITLE": "Trades",
+        "PARAGRAPH": "The Trades tab breaks down your portfolio by instrument, your outliers as well as your best and worst trades. Hover your mouse over the bars on the chart to view greater details."
+      },
+      "totalPnl": {
+        "TITLE": "P&L",
+        "PARAGRAPH": "P&L (profit and loss) looks at your profit and loss for all closed trades within the selected date range. A P&L above zero indicates a profitable trading period and a P&L below zero indicates a loss-making period."
+      },
+      "avgPnl": {
+        "TITLE": "Performance",
+        "PARAGRAPH_1": "Performance is a risk-adjusted measure of returns. It estimates what percentage return you can expect on every dollar that you risk on a trade. It is calculated as:",
+        "PARAGRAPH_2": "(WR * Avg Win P&L - (1-WR) * Avg Loss P&L) / Avg Loss P&L",
+        "PARAGRAPH_3": "Performance above zero indicates a profitable trading period and performance below zero indicates a loss-making period."
+      },
+      "battingAverage": {
+        "TITLE": "Win Rate",
+        "PARAGRAPH": "The Win Rate is the percentage of your trades that are profitable. A profitable trade has a positive P&L. If the P&L is zero, this is classified as a scratch trade, and is not counted."
+      },
+      "riskReward": {
+        "TITLE": "Risk Reward",
+        "PARAGRAPH_1": "The Risk:Reward (R:R) ratio looks at the ratio of your average winners to your average losers. It is calculated as:",
+        "PARAGRAPH_2": "Average Winning P&L / Average Losing P&L",
+        "PARAGRAPH_3": "and is expressed as a number. A number greater than 1, shows a positive reward ratio, a number lower than 1 shows a negative reward ratio."
+      },
+      "dispositionRatio": {
+        "TITLE": "Disposition",
+        "PARAGRAPH": "Your Disposition number tells you how long you spend in winners versus losers. A disposition below 1.00 indicates that you are spending more time in losing trades than winning trades."
+      }
+    },
+    "Gameplan": {
+      "trades": {
+        "TITLE": "Trades",
+        "PARAGRAPH": "The Trades tab breaks down your portfolio according to the different strategies and timing edges. Hover your mouse over the bars on the chart to view greater details."
+      },
+      "totalPnl": {
+        "TITLE": "P&L",
+        "PARAGRAPH": "Under Game Plan, the P&L tab provides you with insights into the P&L distribution according to the different strategies and timing edges. For greater insights into the P&L distribution consult the Outliers chart."
+      },
+      "avgPnl": {
+        "TITLE": "Performance",
+        "PARAGRAPH": "Under Game Plan, you can drill down further into the strategies and timing edges to discover positive or negative behaviour with the Performance tab. Purple and orange bars indicate trading settings with best and worst behaviours."
+      },
+      "battingAverage": {
+        "TITLE": "Win Rate",
+        "PARAGRAPH": "The Win Rate tab shows how your win rate varies depending on your strategies and timing edges. You can identify situations in which your win rate is below or above your goal (goal is indicated by a dotted black line)."
+      },
+      "riskReward": {
+        "TITLE": "Risk Reward",
+        "PARAGRAPH": "This tab illustrates your R:R number as it is impacted by your different strategy and timing edges. You can identify situations in which your R:R ratio is below or above your goal, indicated by a dotted black line."
+      },
+      "dispositionRatio": {
+        "TITLE": "Disposition",
+        "PARAGRAPH": "Here you can explore if different strategy and timing edges affects your disposition number. You can identify situations in which your disposition ratio is below or above your goal, indicated by a dotted black line."
+      }
+    },
+    "HELP_PROFIT_LOSS": {
+      "TITLE": "Understanding Profit & Loss",
+      "PARAGRAPH_1": "P&amp;L (Profit and Loss) looks at your net profit (after any fees or commissions are deducted by your broker). It is a very simple indicator to look at profitability at a glance."
+    },
+    "HELP_BATTING_AVERAGE": {
+      "TITLE": "Understanding Batting Average",
+      "PARAGRAPH_1": "Your batting average tells you the percentage of your trades that are winners. A winner is defined as a trade with a positive P&amp;L.",
+      "PARAGRAPH_2": "If the P&amp;L is zero, this is classified as a scratch trade, and not counted.",
+      "PARAGRAPH_3": "For example if you do 10 trades, 3 losers, 3 break-even and 4 winners, then your batting average is 40%.",
+      "PARAGRAPH_4": "Different strategies have different batting average. A low batting average will require a high risk:reward ratio, and higher batting average can be profitable with lower risk:reward ratios.",
+      "PARAGRAPH_5": "The dashboard shows how the batting average changes from quarter to quarter.<br/><br/>The black solid line on the chart shows the long time batting average for your entire trade history.",
+      "PARAGRAPH_6": "If you mouse over any single bar you can see the details for that quarter. Here we show that in Q1 2016 the batting average was 80.8%. This was made up of 21 winners out of a total of 26 trades.",
+      "PARAGRAPH_7": "If you filter your data based on a date range, the dotted line will show you the batting average for the specific time period.<br/><br/>If you want to analyze your trades today / this week / this month, simply set the date range of your choice.",
+      "PARAGRAPH_8": "If the dotted line is above the black line, this indicates an improvement over your long term metrics.<br/><br/>In this example, the overall batting average is 77.4%, and the selected time period shows an improvement now measuring 83.3%."
+    },
+    "HELP_RISK_REWARD": {
+      "TITLE": "Understanding Risk Reward Ratio",
+      "PARAGRAPH_1": "The risk:reward ratio looks at the ratio of your average winners to your average losers. Convention calls this metric risk:reward although it is always written as reward:risk. For example, if your winning trades average $150 and your losing trades average $50, then your R:R ratio will be 3:1.",
+      "PARAGRAPH_2": "R:R = Avg Winning P&amp;L / Avg Losing P&amp;L",
+      "PARAGRAPH_3": "A trading strategy will break even, if the batting average is 50% and the R:R ratio is 1:1. If the batting average is higher, then the R:R can be lower and vice versa.",
+      "PARAGRAPH_4": "This chart shows how your risk:reward changes from quarter to quarter.<br><br>The black line shows the long-term risk:reward ratio. This reflects the risk:reward for your entire trading history.",
+      "PARAGRAPH_5": "To get more information on a particular quarter, mouse over an individual bar to see the component parts.<br><br>You can see the total trades, the average winning P&L and the average losing P&L for that time period.",
+      "PARAGRAPH_6": "If you filter your data based on a date range, the dotted line will show your risk:reward for the specific time period.<br><br>To analyse your current day / week / month or any specific period of interest, select a date range of your choice.<br><br>The dotted green line will reflect the average result for that time period.<br><br>If the dotted line is above the black line, this indicates an improvement over your long term metrics.",
+      "PARAGRAPH_7": "Here we see an improvement in R:R from 0.73 to 1.23."
+    },
+    "HELP_EXPECTANCY": {
+      "TITLE": "Understanding Expectancy",
+      "PARAGRAPH_1": "Expectancy combines the Batting Average and the R:R Ratio to give an estimate of the return for your trades.",
+      "PARAGRAPH_2": "Expectancy = (BA * Average Winners – (1-BA) * Average Losers) / Average Losers",
+      "PARAGRAPH_3": "For Example, BA 40% , Average winner of $130, Average Loser of $100.",
+      "PARAGRAPH_4": "Expectancy = ((0.4*130) – (0.6 * 100))/100 = -8%",
+      "PARAGRAPH_5": "If this trading strategy improved its Batting Average to 45% then they would turn profitable.",
+      "PARAGRAPH_6": "Expectancy = ((0.45*130) – (0.55 * 100))/100 = 3%"
+    },
+    "HELP_DISPOSITION": {
+      "TITLE": "Understanding Disposition Ratio",
+      "PARAGRAPH_1": "Your disposition ratio tells you how long you spend in winners versus losers.",
+      "PARAGRAPH_2": "A disposition ratio below 1.00 indicates that a trader is spending less time in winners than losers and can indicate that there is a risk that winners are getting closed out too quickly.",
+      "PARAGRAPH_3": "The dashboard shows how the disposition ratio changes from quarter to quarter.",
+      "PARAGRAPH_4": "If you mouse over any single bar you can see the details for that quarter. Here we show that in Q4 2015 the disposition ratio was just over 2 which means that the trader spent twice as long in winners as they did in losers.<br><br>This was made up of 84 trades. The average length of time in winners was around an hour, and the average length of time in losers was 28 minutes.",
+      "PARAGRAPH_5": "The black solid line on the chart shows the overall disposition ratio for the your entire trade history.",
+      "PARAGRAPH_6": "If you filter your data based on a date range, the dotted line will show you the disposition ratio for the specific time period.<br><br>If you want to analyze your trades today / this week / this month, simply set the date range of your choice.",
+      "PARAGRAPH_7": "If the dotted line is above the black line, this indicates an improvement over your long term metrics.<br><br>In this example, the disposition ratio improved from 1.63 to 1.70."
+    },
+    "HELP_AVERAGE_PROFIT_LOSS": {
+      "TITLE": "Understanding Average P&L",
+      "PARAGRAPH_1": "Your average P&L shows your average profit and loss per trade.",
+      "PARAGRAPH_2": "The dashboard shows how the average P&L changes from quarter to quarter.<br/><br/>The black solid line on the chart shows the long time average P&L for your entire trade history.",
+      "PARAGRAPH_3": "If you mouse over any single bar you can see the details for that quarter. Here we show that in Q1 2016 the average P&L was €5.85.",
+      "PARAGRAPH_4": "If you filter your data based on a date range, the dotted line will show you the average P&L for the specific time period.<br/><br/>If you want to analyze your trades today / this week / this month, simply set the date range of your choice.",
+      "PARAGRAPH_5": "If the dotted line is above the black line, this indicates an improvement over your long term metrics.<br><br>In this example, the average P&L improved from -€3.25 to €3.96."
+    }
+
+  },
+  "FREE_SIGN_UP": {
+    "DAYS_FREE": "14 day free trial.",
+    "REST": "No credit card required. Monthly subscription €49."
+  },
+  "SUBSCRIBE_SUCCESS": {
+    "TITLE": "SUCCESS!",
+    "MESSAGE": "Congratulations! You are now a premium member of Chasing Returns.",
+    "MESSAGE_2": "Enjoy the journey, discover your own unique trading habits and reveal new edge!",
+    "CARD_NOT_CHARGED": "Your card won't be charged until the beginning of the next monthly period. Don't worry, we'll email you to let you know a few days before."
+  },
+  "SUBSCRIBE_FORM_ERRORS": {
+    "CARD_NUMBER": "invalid card number",
+    "CVC": "must be a valid 3 or 4-digit CVC code",
+    "MONTH": "must be a valid month number (1-12)",
+    "YEAR": "must be a current or future 4-digit year",
+    "CARD_NUMBER_REQUIRED": "You forgot to enter a card number!",
+    "CVC_REQUIRED": "You forgot to enter a cvc!",
+    "MONTH_REQUIRED": "You forgot to enter a expiry month!",
+    "YEAR_REQUIRED": "You forgot to enter a expiry year!"
+  },
+  "METATRADER_EA_ZONE_MESSAGE": {
+    "TITLE": "Click the button to download EA installer",
+    "FOOTER": "Setup Live MT4 Feed [Beta]",
+    "DL_METATRADER_EA_BUTTON": "Download MetaTrader 4 EA"
+  },
+  "INSTALLATION_INSTRUCTIONS": "Installation Instructions",
+  "INSTALLATION_HELP": {
+    "TITLE": "Installing a {broker} EA",
+    "METATRADER4": {
+      "STEP_1_TEXT": "Download MetaTrader 4 EA installer from Chasing Returns.",
+      "STEP_2_TEXT": "Close your MetaTrader 4 platform and install MetaTrader 4 EA.",
+      "STEP_3_TEXT": "Open your MetaTrader 4 platform and go to Tools > Options > Expert Advisors, enable the option 'Allow WebRequest for listed URL' and add Chasing Returns URL (https://www.chasingreturns.com).",
+      "STEP_4_TEXT": "Open the navigator View > Navigator find Chasing Returns EA inside Expert Advisors list and double-click it.",
+      "STEP_5_TEXT": "Fill in your Chasing Returns credentials.",
+      "STEP_6_TEXT": "Select the tab 'Account History' in the center panel, right-click and select 'All History'.",
+      "STEP_7_TEXT": "Your data will be updated automatically every 1 minute."
+    }
+  },
+  "RESEND_VERIFICATION_EMAIL": "Resend verification email",
+
+  "edgesHelp": {
+    "products": {
+      "p1": "This habit shows your performance in different products.",
+      "p2": "It is quite usual for traders to have different performance in different products.",
+      "p3": "Use the platform to discover the most profitable products for you."
+    },
+    "tags": {
+      "p1": "This habit shows your performance based on different tags.",
+      "p2": "Define your own habits and use the platform to discover the most profitable trading settings for you."
+    },
+    "parallelOpenTrades": {
+      "p1": "This shows if your performance is affected by the number of open positions or trades you have.",
+      "p2": "If you have a successful scaling-in strategy, you may show improved returns as you increase your positions.",
+      "p3": "On the other hand, if you get out of your comfort zone with multiple trades running, you may get an indication of the optimum number for you."
+    },
+    "parallelOpenProducts": {
+      "p1": "This shows if your performance is affected by the number of products you have open at the same time.",
+      "p2": "If you get out of your comfort zone with multiple products running, you may get an indication of the optimal number for you."
+    },
+    "longShort": {
+      "p1": "Examine your performance in long versus short trades independently.",
+      "p2": "It is quite usual for traders to show a preference for one style of trading over the other."
+    },
+    "consecutiveWinners": {
+      "p1": "There are always trading days where you have a streak of winners. Winning streaks are more likely when your batting average is higher.",
+      "p2": "This habit shows how your trades perform when you are in a run of winners. The intraday version only looks at runs that happen in a single trading day (more suitable for day traders), whereas the winning streaks habit looks at runs that span any number of trading days.",
+      "p3": "It divides the trades into 6 groups as follows:",
+      "p4": "Trades where the previous trades were losses or scratch",
+      "p5": "Trades where the previous 1 trade was a winner",
+      "p6": "Trades where the previous 2 trades were winners",
+      "p7": "Trades where the previous 3 trades were winners",
+      "p8": "Trades where the previous 4 trades were winners",
+      "p9": "Trades where the previous 5 or more trades were winners",
+      "p10": "The winning streaks habit helps you to monitor and control your emotions when you are having a run of winners.",
+      "p11": "Here is a trader whose trading results degrade after 1 or 2 consecutive winners. This could indicate a lapse in discipline due to the emotions associated with closing out winners.",
+      "p12": "This trader appears to gain confidence and outperform after 1 or 2 consecutive winners, but then his performance degrades for runs of 3 or 4.",
+      "p13": "Every trader needs to understand the difference between confidence in trading, and over-confidence where sometimes discipline can slip and lead to underperformance.",
+      "p14": "Use the platform to understand your own habits. Look to achieve consistent returns regardless of how many wins/losses in a row you have."
+    },
+    "intradayConsecutiveWinners": {
+      "p1": "There are always trading days where you have a streak of winners. Winning streaks are more likely when your batting average is higher.",
+      "p2": "This habit shows how your trades perform when you are in a run of winners.<br><br>The intraday version only looks at runs that happen in a single trading day (more suitable for day traders), whereas the swing option looks at runs that span any number of trading days.",
+      "p3": "It divides the trades into 6 groups as follows:",
+      "p4": "Trades where the previous trades were losses or scratch, or first trades of the day (for intraday)",
+      "p5": "Trades where the previous 1 trade was a winner",
+      "p6": "Trades where the previous 2 trades were winners",
+      "p7": "Trades where the previous 3 trades were winners",
+      "p8": "Trades where the previous 4 trades were winners",
+      "p9": "Trades where the previous 5 or more trades were winners",
+      "p10": "The winning streaks habit helps you to monitor and control your emotions when you are having a run of winners.",
+      "p11": "Here is a trader whose trading results degrade after 1 or 2 consecutive winners. This could indicate a lapse in discipline due to the emotions associated with closing out winners.",
+      "p12": "This trader appears to gain confidence and outperform after 1 or 2 consecutive winners, but then his performance degrades for runs of 3 or 4.",
+      "p13": "Every trader needs to understand the difference between confidence in trading, and over-confidence where sometimes discipline can slip and lead to underperformance.",
+      "p14": "Use the platform to understand your own habits. Look to achieve consistent returns regardless of how many wins/losses in a row you have."
+    },
+    "intradayTradeFrequency": {
+      "p1": "This habit is measuring your trading behavior based on the number of trades already executed in a single day.",
+      "p2": "The first bar represents the first trades of the day.",
+      "p3": "The remaining trades are divided into 4 equal sized groups showing the sequence of the trades over the course of a day.",
+      "p4": "This trader is at his most successful between 2 and 6 trades per day. When he trades more than 7 trades he underperforms.",
+      "p5": "Use the platform to understand your own habits related to overtrading. Look to achieve consistent returns regardless of how many trades you take."
+    },
+    "consecutiveLosers": {
+      "p1": "There are always trading days where you have a streak of losers. Losing streaks are more likely when your batting average is lower.",
+      "p2": "This habit shows how your trades perform when you are in a run of losers.The intraday version only looks at runs that happen in a single trading day (more suitable for day traders), whereas the losing streaks habit looks at runs that span any number of trading days.",
+      "p3": "It divides the trades into 6 groups as follows:",
+      "p4": "Trades where the previous trades were winners or scratch",
+      "p5": "Trades where the previous 1 trade was a loser",
+      "p6": "Trades where the previous 2 trades were losers",
+      "p7": "Trades where the previous 3 trades were losers",
+      "p8": "Trades where the previous 4 trades were losers",
+      "p9": "Trades where the previous 5 or more trades were losers",
+      "p10": "The losing streaks habit helps you to monitor and control your emotions when you are having a run of losers.",
+      "p11": "Here is a trader whose trading results degrade after 3 or more losers.",
+      "p12": "Use the platform to understand your own habits when facing loses. Look to achieve consistent returns regardless of how many wins/losses in a row you have."
+    },
+    "intradayConsecutiveLosers": {
+      "p1": "There are always trading days where you have a streak of losers. Losing streaks are more likely when your batting average is lower.",
+      "p2": "This habit shows how your trades perform when you are in a run of losers.<br><br>The intraday version only looks at runs that happen in a single trading day (more suitable for day traders), whereas the swing option looks at runs that span any number of trading days.",
+      "p3": "It divides the trades into 6 groups as follows:",
+      "p4": "Trades where the previous trades were winners or scratch, or first trades of the day (for intraday)",
+      "p5": "Trades where the previous 1 trade was a loser",
+      "p6": "Trades where the previous 2 trades were losers",
+      "p7": "Trades where the previous 3 trades were losers",
+      "p8": "Trades where the previous 4 trades were losers",
+      "p9": "Trades where the previous 5 or more trades were losers",
+      "p10": "The losing streaks habit helps you to monitor and control your emotions when you are having a run of losers.",
+      "p11": "Here is a trader whose trading results degrade after 3 or more losers.",
+      "p12": "Use the platform to understand your own habits when facing loses. Look to achieve consistent returns regardless of how many wins/losses in a row you have."
+    },
+    "velocity": {
+      "p1": "This trading habit shows how trades perform based on how much time you waited between closing your previous trade and opening a new one.",
+      "p2": "The chart splits your trades into 4 equal groups, each with 25% of your trades.",
+      "p3": "This example shows a trader with an overall average P&L of -€1.<br><br>Looking at the first red bar, this shows that one quarter of his trades are returning an average PnL of -€8 per trade. All these trades were entered within 2 minutes of closing out a previous trade.",
+      "p4": "Use these insights to help you monitor and control your desire to jump back into the market after closing out a trade."
+    },
+    "intradayVelocity": {
+      "p1": "This trading habit shows how trades perform based on how much time you waited between closing your previous trade and opening a new one.",
+      "p2": "The intraday version resets to zero every morning, so it only looks at trades within a single day (more suitable for day traders), whereas the swing option looks at the time between trades within any number of trading days.",
+      "p3": "The chart splits your trades into 4 equal groups, each with 25% of your trades.",
+      "p4": "This example shows a trader with an overall average P&L of -€1.<br><br>Looking at the first red bar, this shows that one quarter of his trades are returning an average PnL of -€8 per trade. All these trades were entered within 2 minutes of closing out a previous trade.",
+      "p5": "Use these insights to help you monitor and control your desire to jump back into the market after closing out a trade."
+    },
+    "firstTradeOfTheDay": {
+      "p1": "Do you hit the ground running? or does it take a warm-up trade to get moving.",
+      "p2": "Many traders show edge from their first trade of the day.",
+      "p3": "A corresponding bet size on the first trades of the day will have an impact on overall returns."
+    },
+    "tradeDuration": {
+      "p1": "Trade duration splits your data in 4 groups based on how long you spend in the trades.",
+      "p2": "It is common to see underperformance in shorter trades and higher performance in longer trades, if you use stop losses."
+    },
+    "timeOfDay": {
+      "p1": "This shows the differences in your behaviour at different times of the day.",
+      "p2": "Are you better at market open? Close? Or in quieter times?",
+      "p3": "Here is an example of a trader who underperforms in the mornings and shows improved edge when trading after 3pm.",
+      "p4": "Use the options to look at your trading habits either by four periods of the day, by hours or by half hours."
+    },
+    "hourEntry": {
+      "p1": "This shows the differences in your behaviour at each hour of the day.",
+      "p2": "This trader tends to underperform in the mornigns and yields higher average profits between 1pm and 6pm."
+    },
+    "halfHourEntry": {
+      "p1": "This shows the differences in your behaviour at each half hour of the day.",
+      "p2": "Use this habit to find the times of consistently better performance."
+    },
+    "monthsEntry": {
+      "p1": "This shows the differences in your behaviour in different months of the year.",
+      "p2": "Use this habit to discover your how your performance varies throughout the year."
+    },
+    "byTime": {
+      "p1": "This shows the differences in your behaviour over time.",
+      "p2": "Use this habit to discover how your trading develops."
+    },
+    "dayOfTheWeek": {
+      "p1": "Day of the week habit shows differences in your behaviour by day.",
+      "p2": "We all have our good days and our bad days. It's possible that your lifestyle or the markets are better for you on different days.",
+      "p3": "Take advantage by using smart money management.",
+      "p4": "This trader shows a clear bias of underperformance on Mondays and Tuesdays and his profits improve significantly later in the week."
+    }
+  },
+  "beta": "beta",
+
+  "REFRESH": "Refresh",
+  "DATE_RANGE": "Date Range",
+
+  "NO_TRADES": {
+    "TITLE": "No Trades",
+    "PARAGRAPH_1": "You must have at least one trade to access Gameplan."
+  },
+  "PREMIUM_SUBSCRIPTION_EXPIRES_ON": "Premium Subscription Expires On",
+  "PREMIUM_SUBSCRIPTION_EXPIRED": "Premium Subscription Expired",
+  "PREMIUM_SUBSCRIPTION_ACTIVE": "Premium Subscription Active",
+  "PREMIUM_SUBSCRIPTION_ACTIVE_COACH": "Premium subscription active through coach",
+  "FREE_TRIAL_EXPIRES_ON": "Free Trial Expires On",
+  "FREE_TRIAL_EXPIRED": "Free Trial Expired",
+  "SUBSCRIBE_ANYTIME_TITLE": "Upgrade to Chasing Returns Premium",
+  "SUBSCRIBE_ANYTIME_MESSAGE": "Get unlimited access to your trading edges in our Gameplan",
+  "UNDEFINED": "Undefined",
+
+  "NO_ENOUGH_TRADES": {
+    "TITLE": "No Enough Trades",
+    "PARAGRAPH_1": "You must have at least a hundred trades to access Goals."
+  },
+
+  "GOALS": {
+    "SETTING": "Goal Setting",
+    "TARGET": {
+      "BATTING_AVERAGE": "Target Batting Average"
+    },
+    "CANCEL": "Cancel",
+    "SET": "Set",
+    "TARGET_GOAL": "Target",
+    "ACTUAL_GOAL": "Actual"
+  },
+
+  "NO_DEMO": {
+    "TITLE": "No Demo",
+    "PARAGRAPH_1": "You cannot use this feature using sample data, you must upload a trade history first."
+  },
+
+  "CONFIRM_DIALOG": {
+    "TITLE": "Confirmation",
+    "BUTTON": {
+      "CANCEL": "Cancel",
+      "CONFIRM": "Confirm",
+      "YES": "Yes",
+      "NO": "No"
+    }
+  },
+
+  "SUMMARY_DIALOG": {
+    "TITLE": "Summary",
+    "TRADE_LIMIT_FIRST_TEXT": "Chasing Returns currently supports a maximum of",
+    "TRADE_LIMIT_REST_FIRST_TEXT": "trades - Some trades will be eliminated.",
+    "TRADE_LIMIT_SECOND_TEXT": "Chasing Returns currently supports a maximum time span of 1 year - Some trades will be eliminated.",
+    "SUCCESSFUL_IDENFITY_NO_NEW_TRADES_TEXT": "No new trades have been identified.",
+    "SUCCESSFUL_IDENFITY_NEW_TRADES_DIFFERENT_DAYS_TEXT": "We have identified {nTrades, plural, one{1 new trade} other{# new trades}} between {dateTimeBegin} and {dateTimeEnd}.",
+    "SUCCESSFUL_IDENFITY_NEW_TRADES_SAME_DAY_TEXT": "We have identified {nTrades, plural, one{1 new trade at {dateTime}} other{# new trades at {date} between {timeBegin} and {timeEnd}}}.",
+    "TOTAL_PNL_TEXT": "The Total P/(L) for {nTrades, plural, one{this trade} other{these trades}} is: {pnl}.",
+    "SUCCESSFUL_IDENFITY_DUPLICATED_TRADES_TEXT": "We have identified {nTrades, plural, one{1 duplicated trade} other{# duplicated trades}}. {nTrades, plural, one{This trade} other{These trades}} will be ignored.",
+    "SUCCESSFUL_IDENFITY_IGNORED_TRADES_TEXT": "We couldn't add {nTrades, plural, one{1 trade} other{# trades}} from this file as {nTrades, plural, one{it was} other{they were}} traded after your registration with Chasing Returns.",
+
+    "UNMATCHED_FIRST_TEXT": "We have skipped some trades due to missing trade data.",
+    "UNMATCHED_MISSING_OPEN_TRADE_TEXT": "There {nTrades, plural, one{is 1 open trade} other{are # open trades}} dating back to at {nTrades, plural, one{} other{or before }}{date}. For completeness you should retrieve {nTrades, plural, one{this old trade} other{these old trades}} and import them to Chasing Returns.",
+    "UNMATCHED_OPEN_TRADE_TEXT": "There {nTrades, plural, one{is 1 trade} other{are # trades}} currently open dated at {nTrades, plural, one{} other{or after }}{date}. We will save {nTrades, plural, one{this and it} other{these and they}} will be imported on the next import that contains a close or partial close.",
+    "UNMATCHED_MISSING_BOTH_DATES_TEXT": "There {nTrades, plural, one{is 1 trade} other{are # trades}} with no entry datetime and exit datetime."
+  },
+  "BY": "By",
+
+  "TRADES": "Trades",
+  "PRODUCTS": "Products",
+  "LOADING_DASHBOARD": "Loading dashboard...",
+  "EXPORT_LINK_TEXT": "Export",
+
+  "STUDENT_FIELDS": {
+    "INTERNALID": "Client ID",
+    "ACCOUNT": "Account ID",
+    "CLIENT_TYPE": "Client Type",
+		"ACCOUNT_TYPE": "Account Type",
+    "ALIAS": "Alias",
+    "NAME": "Name",
+    "CURRENCY": "Currency",
+    "MT4_SERVER": "Server",
+    "NET_DEPOSITS": "Net Deposits",
+    "PNL": "P&L",
+    "LAST_ACTIVE_DATE": "Last Trade Date",
+    "LAST_ACTIVE_TIME": "Last Trade Time",
+    "LAST_LOGIN_DATE": "Last Login Date",
+    "INTRADAY_TRADE_FREQUENCY": "Trade Sequence",
+    "INTRADAY_CONSECUTIVE_WINNERS": "Winning Streak",
+    "INTRADAY_CONSECUTIVE_LOSERS": "Losing Streak",
+    "PARALLEL_OPEN_TRADES": "Parallel Open Trades",
+    "LAST_DAY_PNL": "Last Day P&L",
+    "TAGS": "Last Trade Tags",
+    "EMAIL": "Email",
+    "NUMBER_LAST_DAY_TRADES": "Last Day # Trades",
+    "LAST_LOGIN": "Last Login",
+    "AVG_PNL": "Avg P&L",
+    "BATTING_AVERAGE": "Win Rate",
+    "RISK_REWARD": "Risk:Reward",
+    "DISPOSITION_RATIO": "Disposition Ratio",
+    "NUMBER_TRADES": "Trades",
+    "TILT": "Current Discipline",
+    "OPEN_POSITIONS": "Open Positions",
+    "LOSS_STREAK": "Losing Streak",
+    "REALIZED_PNL": "Realized P&L",
+    "UNREALIZED_PNL": "Unrealized P&L",
+    "TIME_BETWEEN_TRADES": "Time between trades",
+    "TRADE_SEQUENCE": "Trade sequence",
+		"DAILY_LIMIT": "Daily Loss",
+		"TRADE_LOSS_LIMIT": "Trade Loss",
+		"OPEN_TRADES_LIMIT": "Open Trades",
+		"LOSING_STREAK_LIMIT": "Losing Streak"
+  },
+
+  "LOADING_MONITOR": "Loading your traders details...",
+  "PERFORMANCE_MONITOR": "Performance Monitor",
+  "CLIENT_SUCCESS_PORTAL": "GamePlan 360",
+  "GAMEPLAN_PORTAL": "GamePlan Portal",
+  "FILTER": "Filter",
+  "TRADERS": "Traders",
+  "TRADERS_ACTIVE_TODAY": "Traders Active Today",
+  "TRADERS_ACTIVE_WEEK": "Traders Active This Week",
+  "TRADERS_TOTAL": "Traders Total",
+  "WEEK": "Week",
+  "MONTH": "Month",
+  "ALL": "All",
+  "SUPPORT_YOUR_TRADER_CLIENTS": "Support Your Trader Clients",
+  "FREE_TRIAL_OVER_MONITOR": "Your free trial has expired. Subscribe to Chasing Returns Premium below to get access to a full breakdown of your trading habits.",
+  "SUBSCRIBE_NOW": "Subscribe Now",
+  "PER_MONTH": "per month",
+  "CONGRATULATIONS": "Congratulations! You now have unlimited access to your traders edges on the Chasing Returns Gameplan.",
+  "SEE_ALL_TRADERS": "See All Traders",
+  "LOAD_DEMO_DATA": "Load Demo Data",
+  "NUMBER_TRADERS_ACTIVE": "No. Traders Active",
+  "BACK_TO_PERFORMANCE_MONITOR_BUTTON_TEXT": "Back to Performance Monitor",
+
+  "IS_TRADER": "I'm a trader",
+  "IS_COACH": "I'm a coach",
+  "ERR_INVALID_TEL_NUM": "That telephone number isn't valid!",
+
+  "totalPnl": "P&L",
+  "avgPnl": "Expected P&L per trade",
+  "battingAvg": "Win Rate",
+  "battingAverage": "Win Rate",
+  "riskReward": "Risk:Reward",
+  "dispositionRatio": "Disposition",
+  "trades": "Trades distribution",
+  "expectancy": "Performance",
+
+  "LOAD": "Load",
+
+  "SUBSCRIBE_FORM_COUPON": {
+    "VALID_PART_1": "A discount of",
+    "VALID_ONCE": "for the first month",
+    "VALID_MONTH_PART_1": "for the first",
+    "VALID_MONTH_PART_2": "months",
+    "VALID_PART_2": "has been applied."
+  },
+
+  "SUBSCRIBE_RETURN_TO_DASHBOARD": "Return to Dashboard",
+  "SUBSCRIBE_BACK_TO_DASHBOARD": "Back to Dashboard",
+  "SUBSCRIBE_BACK_TO_GAMEPLAN": "Back to Gameplan",
+  "SUBSCRIBE_UPGRADE_FOR": "Upgrade for",
+
+  "GAMEPLAN": {
+    "SHOW_TRADES": "Show Trades",
+    "SHOW_PRODUCTS": "Show Products",
+    "SHOW_TAGS": "Show Tags",
+    "TRIAL": {
+      "EXPIRED": {
+        "EXPIRED": "Trial Expired! Click Here",
+        "HEADER": "Your Chasing Returns Trial has expired!",
+        "MESSAGE": "You can continue to see the data you uploaded before today, but you will not be able to see any new data you upload in Chasing Returns"
+      },
+      "ACTIVE": {
+        "REMAINING": "{daysRemaining} {daysRemaining, plural, one{day} other{days}} trial left!",
+        "HEADER": "Your Chasing Returns Trial will expire in {daysRemaining} {daysRemaining, plural, one{day} other{days}}",
+        "MESSAGE": "When it expires you will not be able to see any new data you upload in Chasing Returns"
+      },
+      "SIGNUP": "You can sign up now for just {useramount} a month!"
+    }
+  },
+
+  "STATS": "Stats",
+  "ASSIGN_COACH": "Assign Coach",
+  "REMOVE": "Remove",
+
+  "SPOTLIGHT": {
+    "TITLE": "Spotlight"
+  },
+
+  "PAY_NOW": "Pay Now",
+  "CONTACT_US_FOR_PRICING": "Contact Us For Pricing",
+
+  "MENU": {
+    "TAS_EDGES": "TAS Edges",
+    "TRADE_JOURNAL": "Trading Monitor",
+    "TRADE_LOG": "Trade Journal",
+    "STRATEGY_EDGES": "Strategy Edges",
+    "TIMING_EDGES": "Timing Edges",
+    "PSYCHOLOGY_EDGES": "Psychological Edges",
+    "ENTRY_TIME_DAY": "Time of Day",
+    "MARKET_EDGES": "Market Edges",
+    "TRADE_METRICS": "Trade Metrics",
+    "SCORECARD": "Scorecard",
+    "DAILY_STATEMENT": "Daily Statement"
+  },
+
+  "WELCOME2": {
+    "PART_1": "welcome",
+    "PART_2": "to Chasing Returns"
+  },
+
+  "ADD_COACH": {
+    "TITLE": "Add a Trading Coach",
+    "EMAIL_ADDRESS_COACH": "Email address of your coach",
+    "CANCEL": "Cancel",
+    "OK": "OK",
+    "ADD": "Add Coach"
+  },
+
+  "FILTER_BY_NAME": "Filter by Name",
+  "FILTER_BY_ACCOUNT": "Filter by account ID",
+  "FILTER_BY_INTERNAL_ID": "Filter by Oanda Id",
+  "MADE": "MADE",
+  "LOST": "LOST",
+  "YOUR_TOP_BOTTOM": "Your best 3 / worst 3 trades",
+  "TRADING_SUMMARY": "Here is your trading summary.",
+  "PROFITABILITY": "Profitability",
+  "PROFITABILITY_OF_YOUR_TRADES": "Impact of your best and worst trades on P&L",
+  "PORTFOLIO_BREAKDOWN": "Your portfolio breakdown",
+  "EDGES_AND_BIASES": "GamePlan Edges and Biases",
+
+  "YOUR_FINAL_PRICE": "Your final price is",
+  "YOUR_COACH_IS": "Your coach is",
+  "PROCEED_TO_DEMO": "Proceed to demo",
+  "FILTER_BY_PRODUCT": "Filter by Product",
+  "BROKER": "Broker",
+  "USER_TYPE": {
+    "TRADER": "I'm a trader",
+    "COACH": "I'm a coach"
+  },
+  "PLATFORM": "Platform",
+  "NO_DATA_MOBILE": "Thanks for registering. In order to see your data on a mobile device, you need to login from a desktop once and follow the steps to upload your trade data.",
+  "ERR_BROKER_REQUIRED_MSG": "You forgot to select the broker. <br> If your broker is not listed here please email support@chasingreturns.com and we will be happy to help.",
+  "BROKER_PAGE_TAGLINE": "Select your broker",
+  "UPDATE_PROFILE": "Update profile",
+  "SKIP": "Skip",
+  "REGISTER_PAYMENT": "Register Payment",
+
+  "SUBSCRIPTION": {
+    "EMAIL_VALIDATED": "That's your email validated. You're nearly there!",
+    "SET_UP_PAYMENT_DETAILS": "Set up your payment details and we'll get you up and running.",
+    "VOUCHER": {
+      "PART_1": "If you have a voucher or discount code,",
+      "PART_2": "apply it here"
+    }
+  },
+
+  "UPLOAD": {
+    "ACC_WARNING": "The account will be enabled on the 29th of October.",
+    "STEP1": "STEP 1: ",
+    "STEP2": "STEP 2: ",
+    "STEP3": "STEP 3: ",
+    "NEED_HELP": "Need help?",
+    "SETUP_GUIDE_TEST": "Connect MT4 to Chasing Returns",
+    "SETUP_GUIDE": "Setup Guide",
+    "MT4_ACC_NUM": "Number:",
+    "MT4_ACC_CODE": "Password:",
+    "MT4_ACC_SERVER": "Server Name:",
+    "MT4_ACC_DETAILS": "Your MT4 Demo Account details:",
+    "MT4_CLIENT_BTN_DL": "Download MT4 for Valutrades (Optional)",
+    "DOWNLOAD_EA": "Download our Expert Advisor",
+    "TIME_TO_GET_YOUR_DATA": "Time to get your data",
+    "IMPORT_YOUR_DATA": "Import your data",
+    "FINAL_STEP_FOLLOW_INSTRUCTIONS": "It's the final step! Follow the instructions below to sync your trading data.",
+    "FOLLOW_INSTRUCTIONS": "Follow the instructions below to sync your trading data.",
+    "QUESTIONS": "If you have any questions, just let us know - we're here to help.",
+    "OR_CLICK": "Or click",
+    "HERE": "here",
+    "MULTIPLE_DATA_SOURCES": "to upload from multiple data sources."
+  },
+
+  "SETTINGS": {
+    "ICON_TITLE": "Settings",
+    "HEADING": "Configure your account settings.",
+    "REPORTING_CURRENCY": "Reporting Currency",
+    "SELECT_REPORTING_CURRENCY": "Select reporting currency for the 'All accounts' view",
+    "REPORTING_CURRENCY_TEXT": "Trades are converted to the selected reporting currency using exchange rates as of end of day on 31 December 2019",
+    "GOAL_SETTING_HEADER": "Goal Setting",
+    "MONEY_MANAGEMENT_SETTING_HEADER":  "Money management",
+    "RISK_CONTROLS_SETTING_HEADER":  "Risk controls",
+    "GOAL_SETTING_TAG_LINE": "Set a realistic goal and use your Win Rate, Risk Reward and Disposition Targets to help you achieve it",
+    "TRADING_PLAN_TAG_LINE": "Combine good money management discipline, and simple risk controls to achieve your goal",
+    "GOALS_SAVED": "All changes have been saved",
+    "YOUR_TRADING_PLAN": "Your trading plan",
+    "REVERT_GOALS": "Reset Plan",
+
+    "METRIC_GOALS": {
+      "expectancy": "{metric} Goal",
+      "battingAverage": "{metric} Target",
+      "riskReward": "{metric} Target",
+      "dispositionRatio": "{metric} Target",
+      "balance": "Opening Balance",
+      "dailyLoss": "Maximum daily loss",
+      "tradeProfit": "Trade profit target",
+      "tradeLoss": "Maximum trade loss",
+      "openTradesLimit": "Open trades limit",
+      "losingStreakLimit": "Losing streak limit"
+    }
+  },
+
+  "LETS_FIND_YOUR_EDGE": "let's find your edge!",
+  "HELP2": "Help",
+  "HELP3": "Settings",
+  "DASHBOARD": "Summary",
+  "GAMEPLAN2": "GamePlan",
+  "GAME_PLAN": "Game Plan",
+  "RISK_CONSOLE": "Risk Console",
+  "PERFORMANCE_DASHBOARD": "Performance Dashboard",
+  "JOURNAL": "Journal",
+  "STATEMENTS": "Statements",
+  "PLAYMAKER": "PlayMaker",
+  "TRADE_PLAN": "Trade Plan",
+
+  "SYNC_YOUR_DATA": "Sync your data",
+  "FOLLOW_STEPS_CONNECT_MT4_ACCOUNT": "Follow the below steps to connect your MT4 account to Chasing Returns.",
+  "TAKE_FIVE_MINUTES": "It'll take about 5 minutes, and you will only need to do this once.",
+  "WHEN_YOU_CONNECTED_SYNC_DATA": "When you're connected, we'll sync your data seamlessly.",
+  "DOWNLOAD_EA": "Download EA",
+  "STEP_BY_STEP_GUIDE": "Follow our step by step guide",
+  "STEP_BY_STEP_GUIDE_2": " or watch our video guide below.",
+  "FAQ_HELP": "Try our FAQ",
+  "FAQ_HELP_2": "if you are not sure about something.",
+  "SUPPORT": "SUPPORT",
+  "OR_EMAIL": "If you are having trouble please contact ",
+  "SOMETHINGS_UP": "Something's up",
+  "YOUR_MT4_DIDNT_SYNC": "Your MT4 data didn't sync.",
+  "LETS_FIGURE_IT_OUT": "Let's figure it out why.",
+  "THESE_MIGHT_HELP": "These might help:",
+  "MINIMUM_TRADES_PROFITABILITY": "There needs to be a minimum of {nTrades} trades to look at profitability",
+  "MINIMUM_TRADES_TOP_BOTTOM": "There needs to be a minimum of {nTrades} trades to look at best / worst",
+  "BROKER_REQUIRED": "You must have a broker.",
+  "SELECT_EXISTING_BROKER": "Please select an existing broker.",
+  "CHOOSE_PRIMARY_BROKER": "Choose your primary broker",
+  "CHOOSE_BROKER_UPLOAD": "Choose a trading platform to upload data",
+  "THANKS_SIGNING_UP": "Thanks for signing up!",
+  "WE_SENT_EMAIL_VERIFY_EMAIL": "We sent you an email so you can verify your email address.",
+  "PS_CHECK_SPAM": "(If you don't see it, check your spam folder.)",
+  "STEPS_TO_HELP": "Steps to help",
+
+  "ENGLISH": "English",
+  "GERMAN": "German",
+  "POLISH": "Polish",
+
+  "WHEN_CONNECTED": "When you're setup, your data will be synced with the platform.",
+
+  "PROFIT": "Profit",
+  "LOSS": "Loss",
+  "WINNING_AVG_PNL": "Winning Avg P&L",
+  "LOSING_AVG_PNL": "Losing Avg P&L",
+  "BATTING_AVG_MORE": "Win Rate > {goal}%",
+  "BATTING_AVG_LESS": "Win Rate < {goal}%",
+  "BLACK_LINE_SHOWS_BATTING_AVG": "The black line shows a Win Rate of 50%",
+  "RISK_REWARD_MORE": "Risk:Reward > {goal}",
+  "RISK_REWARD_LESS": "Risk:Reward < {goal}",
+  "BLACK_LINE_SHOWS_RISK_REWARD": "The black line shows a Risk: Reward of 1",
+  "DISPOSITION_MORE": "Disposition > {goal}",
+  "DISPOSITION_LESS": "Disposition < {goal}",
+  "BLACK_LINE_SHOWS_DISPOSITION": "The black line shows a Disposition of 1",
+  "POSITIVE_EDGE": "Positive Habit",
+  "NEGATIVE_EDGE": "Negative Habit",
+  "NOT_STATISTICALLY_RELIABLE": "Not statistically reliable",
+  "DOTTED_LINE": "Dotted Line: ",
+  "DOTTED_LINE_SHOWS": "Shows your average {metric}.",
+  "INFERRED_PNL_SHOWS": "Inferred P&L shows the estimated P&L if that behaviour was the norm.",
+  "EXPECTANCY_MORE": "Performance > {goal}%",
+  "EXPECTANCY_LESS": "Performance < {goal}%",
+
+  "METRICS": {
+    "trades": "Trades %",
+    "totalPnl": "P&L",
+    "avgPnl": "Average P&L",
+    "battingAverage": "Win rate",
+    "riskReward": "Risk:reward",
+    "dispositionRatio": "Disposition"
+  },
+
+  "INTRADAY_SWING_VIEW": "Intraday View: resets the count each day | Swing View: carries over data from previous day.",
+  "NO_ENOUGH_DATA_NAVIGATOR_REPORT": "There isn't enough data to generate a report. Try selecting more data",
+  "YOUR_TOP_BOTTOM_EDGES": "Your best 3 / worst 3 edges",
+
+  "CHART_SERIES_NAMES": {
+    "POSITIVE_HABIT": "Strength",
+    "NEGATIVE_HABIT": "Weakness",
+    "UNKNOWN_HABIT": "Other"
+  },
+
+  "EDGE_CHART_TITLES": {
+    "tasDuration": "{metric} based on conviction duration",
+    "tasStrength": "{metric} based on conviction strength",
+    "timeDay": "{metric} based on time of day",
+    "timeDayFixed": "{metric} based on time of day",
+    "dayWeekEntry": "{metric} based on day of the week",
+    "tradeDuration": "{metric} based on trade duration",
+    "tradeDurationStyle": "{metric} based on trade duration",
+    "tradeDurationDay": "{metric} based on trade duration",
+    "tradesBreakdown": "Number of Trades based on winners and losers",
+    "velocityEntry": "{metric} based on time between trades",
+    "firstTradeDay": "{metric} based on first trade of the day",
+    "longShort": "{metric} based on long short",
+    "intradayConsecutiveWinnersLosersOverviewEntry": "{metric} of trades opened during a streak",
+    "intradayConsecutiveWinnersLosersOverviewEntryTrades": "Number of trades opened during a streak",
+    "consecutiveWinnersEntry": "{metric} based on winning streak",
+    "consecutiveLosersEntry": "{metric} based on losing streak",
+    "parallelOpenTrades": "{metric} based on parallel open trades",
+    "parallelOpenProductsOverviewEntry": "{metric} on single positions vs. multiple positions",
+    "parallelOpenProductsOverviewEntryTrades": "Number of single positions vs. multiple positions",
+    "parallelOpenProductsEntry": "{metric} based on the number of parallel positions",
+    "intradayVelocityOverviewEntry": "{metric} on trades re-entering the market quickly vs. longer delay between trades",
+    "intradayVelocityOverviewEntryTrades": "Number of trades re-entering the market quickly vs. longer delay between trades",
+    "intradayVelocityEntry": "{metric} based on time between trades",
+    "intradayTradeFrequencyOverviewEntry": "{metric} on first trades vs. later trades",
+    "intradayTradeFrequencyOverviewEntryTrades": "Number of first trades vs. later trades",
+    "intradayTradeFrequencyEntry": "{metric} based on the order of the trades",
+    "intradayTradeFrequencyEntryDistribution":  "Trades distribution based on their order",
+    "intradayConsecutiveWinnersEntry": "{metric} following one or more winners",
+    "intradayConsecutiveLosersEntry": "{metric} following one or more losers",
+    "products": "{metric} based on product",
+    "assetClass": "{metric} based on asset class",
+    "size": "{metric} based on trade size",
+    "tradesByProduct": "Breakdown of your trades by product",
+    "halfHoursEntry": "{metric} based on Half Hour",
+    "hoursEntry": "{metric} based on Hour",
+    "tags": "{metric} based on Tag",
+    "byTime": "{metric} over time",
+    "pnlBreakdown": "Breakdown of your P&L by winners and losers",
+    "pnlOverTime": "{metric} based on P&L over time",
+    "avgPnlOverTime": "{metric} based on Average P&L over time",
+    "avgPnlBreakdown": "Average P&L based on winners and losers",
+    "winRateOverTime": "Win rate based on {metric}",
+    "winRateBreakdown": "Breakdown of your trades by winners and losers",
+    "riskRewardOverTime": "{metric} based on Risk:Reward over time",
+    "riskRewardBreakdown": "Average P&L per trade by winners and losers",
+    "dispositionOverTime": "Disposition based on {metric}",
+    "dispositionBreakdown": "Average time in trades by winners and losers",
+    "pnlScatter": "P&L scatter",
+    "monthsEntry": "{metric} based on month",
+    "navigator": "Navigator",
+    "marketVolatilityEntry": "market volatility",
+    "marketVolatilityExit": "Exit market volatility",
+    "nfpEntry": "NFP",
+    "nfpExit": "Exit NFP",
+    "accountByTime": "Account P&L"
+  },
+
+  "OVER_TIME": "Over Time",
+
+  "EDGE_X_AXIS_LABEL": {
+    "tasDuration": "Conviction Durations",
+    "tasStrength": "Conviction Strengths",
+    "byTime": "Period of Time",
+    "timeDay": "Entry Period of Time",
+    "dayWeekEntry": "Entry Day of the Week",
+    "tradeDuration": "Trade Duration",
+    "velocityEntry": "Time between Trades (Swing)",
+    "firstTradeDay": "First Trade of the Day",
+    "longShort": "Long/Short",
+    "consecutiveWinnersEntry": "Number of Consecutive Winning Trades (Swing)",
+    "consecutiveLosersEntry": "Number of Consecutive Losing Trades (Swing)",
+    "parallelOpenTrades": "Parallel Open Trades",
+    "parallelOpenProductsEntry": "Number of Parallel Open Products",
+    "intradayVelocityEntry": "Time between Trades (Intraday)",
+    "intradayTradeFrequencyEntry": "Position of Trade in Sequence",
+    "intradayConsecutiveWinnersEntry": "Number of Consecutive Winning Trades (Intraday)",
+    "intradayConsecutiveLosersEntry": "Number of Consecutive Losing Trades (Intraday)",
+    "products": "Products",
+    "halfHoursEntry": "Entry Period of Time",
+    "hoursEntry": "Entry Period of Time",
+    "tags": "My Tags",
+    "monthsEntry": "Entry Month",
+    "navigator": "Navigator",
+    "marketVolatilityEntry": "Entry Market Volatility",
+    "marketVolatilityExit": "Exit Market Volatility",
+    "nfpEntry": "NFP",
+    "nfpExit": "Exit NFP",
+    "accountByTime": "Period of Time"
+  },
+
+  "BREAKDOWN": "Breakdown",
+  "EDGE": "Edge",
+  "NA": "N/A",
+  "ALLOW_DUPLICATED_TRADES": "Allow Duplicated Trades",
+  "OK": "Ok",
+  "TRADES_ARENT_SYNC": "Your trades aren't synchronised yet. Please make sure your EA is installed correctly and contact support@chasingreturns.com if you need any help",
+  "METATRADER": {
+    "BLACKWELL_INFO": {
+      "FILE_EXPORT_1": "You can import your trade history from different MT4 accounts here.",
+      "FILE_EXPORT_2": "Simply export your trades as an HTML file (instructions below).",
+      "FILE_EXPORT_3": "Note that for the trades transacted with brokers other than Blackwell,",
+      "FILE_EXPORT_4": "we'll import trades up to the date that you registered with Chasing Returns.",
+      "FILE_EXPORT_5": "If you have any questions, let us know - we're here to help."
+    },
+    "UPLOAD_OTHER_MT4_DATA": "Do you want to upload trade data from other MT4 accounts?",
+    "UPLOAD_HTML_DATA": "Do you have trade history from another account? That's no problem.",
+    "UPLOAD_HTML_DATA_2": "We'll import trade history (from any MT4 broker) up to your date of registration with Chasing Returns.",
+    "UPLOAD_HTML_BUTTON": "Upload trade history"
+  },
+  "MAKE_SURE_YOU_INSTALLED_EA": "Please make sure you've installed the EA and followed the instructions",
+
+  "DEAL_PNL": "Net Trade P&L",
+  "DEAL_LEVEL_FEES": "Total Trade Fees",
+  "ACCOUNT_PNL": "Net Account P&L",
+  "ACCOUNT_LEVEL_FEES": "Total Account Fees",
+
+  "ACCOUNT_FEES": {
+    "FEE_1": "Admin Fee/Misc",
+    "FEE_2": "Commission Adjustment",
+    "FEE_3": "Interest On Cash Paid",
+    "FEE_4": "Tax Paid On Interest",
+    "FEE_5": "Currency Transfers",
+    "FEE_6": "Interest On Cash Received",
+    "FEE_7": "Commission Adjustment",
+    "FEE_8": "Bank Fees",
+    "FEE_9": "Exchange Fees",
+    "FEE_10": "Bad Debts",
+    "FEE_11": "Chart Fees",
+    "FEE_12": "Italian Capital Gains Tax",
+    "FEE_13": "Hardware Charge",
+    "FEE_14": "Italian Wealth Tax",
+    "FEE_15": "Sigma Squawk",
+    "FEE_16": "Invest Your Way Management Fee",
+    "FEE_17": "VPS Charges",
+    "FEE_18": "Client Workshops in Singapore",
+    "FEE_19": "Inactivity Fee",
+    "FEE_20": "Account Closure Admin Fees",
+    "FEE_21": "Paypal Charges",
+    "FEE_22": "871(m) Withholding Tax",
+    "FEE_23": "871(m) WHT (Omnibus)",
+    "FEE_24": "Tax Document Admin Fee"
+  },
+
+  "FIRST_CHOICE": {
+    "WELCOME": "Welcome",
+    "PARTNERING": {
+      "DEFAULT": "Chasing Returns and {broker} are partnering to help you measure and manage your trading habits.",
+      "POWERED_BY": "is powered by"
+    },
+    "LOGIN": "Login or Sign Up to Chasing Returns and find your new edge today.",
+    "PLAYMAKER_WELCOME": "Welcome to the PLAYMAKER CHALLENGE",
+    "PLAYMAKER_FREE": "It's FREE to sign up, with NO CREDIT CARD required.",
+    "PLAYMAKER": "Stay on track with PlayMaker. Manage your trading risk in real time with confidence.",
+    "PLAYMAKER_TRIAL": "Stay on track with PlayMaker and manage your trading risk in real time with confidence.",
+    "PLAYMAKER_VALUTRADES": "Manage your trading risk in real time with confidence. Take part to be in with a chance to win an iPhone or iPad."
+  },
+
+  "CANCEL": "Cancel",
+  "SEND_EMAIL": "Send Email",
+  "YOUR_PASSWORD_HAS_BEEN_RESET": "Your password has been successfully reset",
+  "APPLY": "Apply",
+  "THE_PRICE_IS": "The price is",
+  "PLEASE_CLICK_PAYMENT": "Please click 'Register Payment' to proceed",
+
+  "LANGUAGE_REQUIRED": "You must select a language.",
+  "CHOOSE_PRIMARY_LANGUAGE": "Choose your primary language.",
+  "CHOOSE_COUNTRY_OF_RESIDENCE": "Choose your country of residence.",
+  "SELECT_EXISTING_LANGUAGE": "Please select an existing language.",
+  "ERR_PHONE_NUMBERS": "Please enter a valid phone number",
+  "PHONE_INPUT_LABEL": "Phone Number",
+
+  "PLATFORM": {
+    "EMAIL_ABOUT_BROKER": "Is your trading platform not here? Please email ",
+    "KNOW_MORE": "Click here to know more.",
+    "FIELD_REQUIRED": "This is required.",
+    "GO": "GO",
+    "CLOSE": "Close",
+    "SYNC_DATA": "Time to sync your data",
+    "REFRESH": "Refresh",
+    "OR": "or",
+    "CLICK_TO_UPLOAD_A_FILE": "Click here to upload a file",
+    "CONTACT_US": "Please contact us at",
+    "SUPPORT_EMAIL": "support@chasingreturns.com",
+    "SELECT_DATE_FORMAT": "Please select the date format.",
+    "SELECT_TIMEZONE": "Please select the timezone.",
+    "NEW_LEAD": "Register interest",
+    "CHOOSE_PRODUCT": "Choose a product",
+    "REGISTER": "Register",
+    "VERIFYING": "Verifying...",
+    "PLEASE_PASSWORD": "Please create a password",
+    "REGISTER_AGAIN": "Please register again.",
+    "ALREADY_USER_1": "We have updated your existing account.",
+    "ALREADY_USER_2": "Just sign in to see whats new.",
+    "CONFIRM": "Confirm",
+    "LOADING": "Loading...",
+    "OOPS": "Oops...",
+    "TRY_AGAIN": "Try Again"
+  },
+  "BROKER": {
+    "OANDA": {
+      "ADD_API_KEY": "Before getting into the platform, we will need your API Key and Account ID to sync your data.",
+      "SYNC_ACCOUNT_LIST": "The following accounts will be synchronized when the refresh button is clicked.",
+      "CSV_UPLOAD_1": "OANDA csv upload is currently in beta and supports ",
+      "CSV_UPLOAD_2": "simple trade types only.",
+      "CSV_UPLOAD_3": "If you have more complex data, please don't hesitate in contacting us at ",
+      "CSV_SUPPORT_SUBJECT": "Oanda CSV upload"
+    }
+  },
+  "ERROR": {
+    "GENERIC": "Sorry something went wrong.",
+    "1000": "Something went wrong. Please try again later, and contact support if the problem persists.",
+    "1001": "Couldn't load date formats.",
+    "1002": "Invalid csv.",
+    "1003": "Couldn't retrieve timezone list.",
+    "1004": "Couldn't retrieve token.",
+    "1005": "Invalid parameters sent to the server.",
+    "1006": "Not enough URL parameters.",
+    "1007": "Your data did not load. Please try again in a few minutes.",
+    "1008": "You currently have no trades. Please come back and start your trading journey when you have executed some trades.",
+    "1500": "Check your details and try again.",
+    "1501": "This email address is already registered",
+    "1502": "No email provided.",
+    "1503": "No password found.",
+    "1504": "No country found.",
+    "1505": "Incorrect password.",
+    "1506": "Account has not been verified. Please check your email.",
+    "1507": "Email address not found.",
+    "1702": "Sorry this is an invalid Verify Link.",
+    "1703": "An unknown error happened.",
+    "1704": "Verification not finished. Please click on resend verification email.",
+    "2000": "An error happened while executing your request.",
+    "3000": "Couldn't load account details.",
+    "3001": "Please register an account and an api key and try again.",
+    "3002": "Error while processing your account information.",
+    "3003": "Invalid API KEY or Account number.",
+    "3004": "Couldn't update your account information.",
+    "3005": "Coulnd't send the file.",
+    "3006": "Invalid data type.",
+    "3007": "Complex type transaction are not supported.",
+    "3008": "Couldn't find the required columns.",
+    "3009": "Failed to parse the file.",
+    "3016": "Your account statistics cannot be accessed. Please try again or contact OANDA support at frontdesk@oanda.com.",
+    "3017": "Your account statistics cannot be accessed. Please contact OANDA support at frontdesk@oanda.com.",
+    "3018": "The service is very busy at the moment, please try again later.",
+    "3019": "Your account trades are still loading, please try again in 10 minutes.",
+    "4000": "There is a problem with your selections, please fix it and try again.",
+
+    "610-100": "Please wait. We’re connecting to your account. Please click back in a few seconds.",
+    "610-101": "Please try another account. You are connecting to an MT4 server that is not licensed.",
+
+    "504": "Your performance analytics are being loaded and this will take 10 minutes. Please try again later, and contact your broker if the problem persists.",
+    "701000": "Your trading history cannot be processed due to missing data. Please contact your broker for assistance.",
+    "701009": "Your performance analytics cannot be accessed due to a connection issue. Please try again later, and contact your broker if the problem persists.",
+    "701010": "Your performance analytics data is being loaded. Please try again later, and contact your broker if the problem persists.",
+    "701015": "Your performance analytics cannot be accessed.  Your problem will be reported to your broker.",
+    "701017": "Your performance analytics cannot be accessed due to a connection issue. Please try again later, and contact your broker if the problem persists."
+  },
+  "INFO": {
+    "NO_NEW_TRADES": "No new trades have been identified.",
+    "10000": "This account has no trades"
+  },
+  "SUCCESS": {
+    "SAVE": "Changes saved successfully."
+  },
+  "GAME_PLAN_LIVE": {
+    "TODAYS_OPENING_ACCOUNT_BALANCE": "Today's Opening Account Balance",
+    "HIGH_VOLUME_TRADER": "PlayMaker currently supports accounts up to 20 open positions. This account is not eligible for PlayMaker.",
+    "TODAYS_DAILY_LOSS_LIMIT": "Today's Daily Loss Limit",
+    "TODAYS_MAX_LOSS_TRADE": "Today's Maximum Loss Per Trade",
+    "DAILY_LIMITS": "Daily Limits",
+    "TRADE_LIMITS": "Trade Limits",
+    "EA": {
+      "INSTALL_EA": "Your Chasing Returns EA is not connected. Please see our FAQ or contact support@chasingreturns.com if you need any help",
+      "INSTALL_EA_LINK": "You need to install our Expert Advisor to use PlayMaker. You can download it here: ",
+      "RUN_EA": "You do not seem to be running our EA. It has not sent data for more then 10 minutes. Please start it.",
+      "NOT_RUNNING_ON_ACCOUNT": "You do not seem to be running our EA on this account.",
+      "UPDATE_EA": "Your EA version {lastEaVersion} is out of date. Please download and install the latest EA from here: ",
+      "NO_TRADES_AVAILABLE": "No trades found."
+    },
+    "CHART": {
+      "TITLE": "Today’s trading performance",
+      "RECENT_TRADES": "Recent Trades",
+      "TRADE_PNL": "Trade P&L",
+      "RECENT_CLOSED": "Recently closed trades",
+      "DISCIPLINED": "High Discipline",
+      "UNDISCIPLINED": "Low Discipline",
+      "OPEN_TRADES": "Open Trades",
+      "TODAY_TRADES": "Today's Trades",
+      "PROFIT_TARGET": "Profit Target",
+      "ACCEPTABLE_LOSS": "Acceptable Loss",
+      "DAILY_STREAK": "Daily Losing Streak",
+      "DAILY_LOSS": "Max Daily Loss",
+      "UNLOCK": "Unlocks at {count} trades"
+    },
+    "PLAYMAKER_CHART_EXPLANATIONS": {
+      "LATEST_TRADING_PERFORMANCE": "This chart shows the P&L of your open and recently closed trades, where each bar represents one trade.<br />Dark green and light red bars indicate trades that did not break any of your trading rules. Light green and dark red bars indicate trades that broke one or more of your trading rules.<br />Hover over each bar to see trade details.",
+      "GUARDRAIL_PROFITABILITY": "This chart shows the total P&L for your trades depending on their discipline. Trades are divided between those that did not break any rules (‘disciplined’) and those that broke one of the rules. Trades that broke multiple rules are included under each rule that they broke.<br />A P&L above zero indicates a profitable set of trades and a P&L below zero indicates a loss-making set of trades. The black line shows the P&L of zero.<br />Hover over each bar to see more details. Scroll down for further analysis of your trading discipline and P&L.",
+      "CUMULATIVE_PNL_BY_DISCIPLINE": "This chart shows your cumulative P&L over time for all trades, only disciplined trades and only undisciplined trades. The black line shows the P&L of zero.<br />Hover over the line to see your cumulative P&L and drawdown at any point in time."
+    },
+    "CONFIG": {
+      "GETTING_STARTED": "Trading guardrails",
+      "DEFINING": "Set and maintain good boundaries for your trading:",
+      "RECOMMEND": "Get our recommendation",
+      "HOW_MUCH_LOSE": "Acceptable Loss Per Trade:",
+      "HOW_MUCH_WIN": "Profit Target Per Trade:",
+      "HOW_MANY": "Losing Streak Limit",
+      "MAX_LOSS": "Daily Loss Limit",
+      "PARALLEL_OPEN_TEXT": "Number of Open Trades Limit",
+      "PROBLEM": "There is a problem with your selections, please fix it and try again.",
+      "LOSING_STREAK_HINT": "Represents the number of losing trades in a row you can have",
+      "PARALLEL_OPEN_HINT": "Represents the number of concurrent open trades you can have",
+      "PERCENT_REPRESENTS_HINT": "Represents {currency}{relative} of today's opening account balance",
+      "RELATIVE_REPRESENTS_HINT": "Represents {percentage}% of today's opening account balance"
+    },
+    "REPORT": {
+      "TODAYS_SCORE": "Today's Discipline",
+      "TOTAL_TRADES": "Closed Trades",
+      "TOTAL_PNL": "Total Closed Trades P&L",
+      "AVG_PNL": "Avg Closed Trades P&L",
+      "YOU_HAVE": "You have",
+      "PERFECT": "Perfect Discipline!",
+      "WELL_DONE": "Well Done!",
+      "EOD": "Your end of day report",
+      "WHAT": "WHAT YOU DID TODAY",
+      "RATING": "YOUR REPORT CARD",
+      "BEHAVIOUR": "YOUR DISCIPLINE SCORE:",
+      "OPENED_TODAY": "Trades Opened: ",
+      "CLOSED_TODAY": "Trades Closed: ",
+      "PNL": "Realized P&L: ",
+      "UPNL": "Unrealized P&L: ",
+      "DAILY_LIMIT": "Trades opened within daily loss limit:",
+      "OVERALL_DAILY_LIMIT": "Daily Loss Limit:",
+      "LOSS_STREAK": "Trades opened within losing streak limit:",
+      "TRADE_LIMIT": "Trades within acceptable loss limit:",
+      "OPEN_TRADES": "Trades opened within open trade limit: ",
+      "FOLLOWED": "Trades Following your Plan: ",
+      "disciplineUnrealPnl": "Disciplined",
+      "parallelOpenUnrealPnl": "Parallel open limit",
+      "tradeLimitUnrealPnl": "Acceptable loss limit",
+      "dailyLimitUnrealPnl": "Daily loss limit",
+      "consecutiveUnrealPnl": "Losing streak limit",
+      "TITLE": "Guardrail Profitability",
+      "PLAN_TITLE": "Execution Profitability",
+      "followedUnrealPnl": "Followed Plan",
+      "notFollowedUnrealPnl": "Didn't Follow Plan",
+      "CURRENT_ACCOUNT_BALANCE": "Current Account Balance: "
+    },
+    "SIGNAL": {
+      "FINISH": "Review",
+      "ALERTS": "Alerts",
+      "STATUS": "Status",
+      "TRAFFIC_LIGHT": "Live Discipline Monitor"
+    },
+    "TAGGING": {
+      "TAG_TRADE": "Track my Discipline",
+      "PLAN": "Did you follow your execution plan?",
+      "ENTRY": "Entry: ",
+      "EXIT": "Exit: "
+    },
+    "SIGNAL_STATS": {
+      "OPEN_LOSS": "TRADE LOSS LIMIT",
+      "DAILY_AND_UNREALIZED": "Daily Loss Limit",
+      "LOSING": "LOSING STREAK LIMIT",
+      "OPEN": "OPEN TRADES LIMIT"
+    },
+    "ACTIONS": {
+      "STREAK_AMBER": "You have hit your losing streak limit.",
+      "STREAK_RED": "You have exceeded your daily losing streak limit.",
+      "TAGGING_PLAN": "Leave your recent trading behaviour in the past. Refocus.",
+      "OPEN_LOSS_AMBER": "You are close to your maximum loss on an open trade.",
+      "OPEN_LOSS_RED": "You are over the acceptable loss for a trade.",
+      "OPEN_AMBER": "You are at your maximum number of open positions.",
+      "OPEN_RED": "You have too many trades open.",
+      "LOSS_AMBER": "You are close to your daily trading limit.",
+      "LOSS_RED": "You have exceeded your daily limit.",
+      "TAGGING_EMOTION": ""
+    }
+  },
+  "EA_GUIDE": {
+    "ABOUT_MESSAGE": "You’re nearly there. Select the INPUT tab at the top of this window and enter your Chasing Returns login details. We will then synchronise your trades.",
+    "PLEASE_INPUT": "Please fill in your email and password on the input tab of the Chasing Returns EA properties dialog.",
+    "SAVING": "Saving user settings.",
+    "READING": "Reading saved user settings.",
+    "ADDRESS": "Add the address {baseURL} in the list of allowed URLs on tab 'Expert Advisors'",
+    "GENERIC_ERROR_TOKEN_1": "HTTP request failed; Trying to Get Token; Attempt: {currentAttempt}",
+    "GENERIC_ERROR_TOKEN_2": "Error authenticating user, please check your email and password or contact support@chasingreturns.com; ",
+    "SUCCESS_TOKEN": "Successfully authenticated into Chasing Returns.",
+    "ERROR_PASSWORD": "Error authenticating, password is incorrect. Please check and try again.",
+    "ERROR_VERIFIED": "Error authenticating, account has not been verified. Please check your email.",
+    "ERROR_NOT_FOUND": "Error authenticating, email address not found. Please check and try again.",
+    "START_OPEN": "Starting synchronization of open order(s).",
+    "FINISH_OPEN": "Finished synchronization of open order(s).",
+    "START_CLOSED": "Starting synchronization of closed order(s).",
+    "FINISH_CLOSED": "Successfully synchronized {size} new closed order(s) from your 'Account History';",
+    "FAILED": "Access to 'Account History' failed with error : ",
+    "HTTP_ERROR": "HTTP request failed; Trying to send your 'Account History'; retries will be attempted periodically.",
+    "ERROR_SUPPORT": "Some problem occurred when attempted to sent your account history to Chasing Returns, please contact support@chasingreturns.com for more information.",
+    "UPGRADE_MESSAGE": "The installed version of Chasing Returns EA is out of date, we recommend reinstalling the latest from app.chasingreturns.com.",
+    "ERROR_SENDING": "Error sending data request. Please contact support@chasingreturns.com",
+    "ERROR_REACH": "Couldn't reach the service.",
+    "ERROR_NETWORK": "Network issues detected. Retrying with smaller payload.",
+    "ERROR_INTERNAL": "Internal server error.",
+    "BAD_UPGRADE": "Bad request. The installed version of Chasing Returns EA is out of date, we recommend reinstalling the latest from app.chasingreturns.com.",
+    "BAD_REQUEST": "Bad request",
+    "ERROR_CONFIG": "Error recieving config using default values; Status code: ",
+    "ERROR_CONFIG_2": "HTTP request failed; Error recieving upload config using default values; Status code: ",
+    "ERROR_PARSING_CONFIG": "Error parsing config using default values; Error code: "
+  },
+  "CHART": {
+    "EMPTY": "No data to display"
+  },
+  "NO_TRADES_CLOSED_TITLE": "No Trades Closed",
+  "OANDA_NO_TRADES_CLOSED_TEXT": "Trades closed will appear once you have closed any trades",
+  "OANDA_NO_TRADES_CLOSED_TEXT_2": "within the OANDA Web Trading Platform.",
+  "NO_TRADES_CLOSED_TEXT": "Data will appear once you import your trade history.",
+  "LARGE_ACCOUNT_TITLE": "Only showing last 10,000 trades",
+  "LARGE_ACCOUNT_MSG": "GamePlan currently analyses your most recent 10,000 trades only. Older trades are eliminated as new trades are closed",
+  "ONBOARDING": {
+    "TAKE_TOUR_BUTTON_TEXT": "Take Tour",
+    "NEXT_BUTTON_TEXT": "Next",
+    "SKIP_BUTTON_TEXT": "Skip",
+    "CLOSE_BUTTON_TEXT": "Close",
+    "DASHBOARD_TOUR": {
+      "STEP0_TITLE": "Welcome",
+      "STEP0_TEXT": "Let's take a tour to show you how to monitor your performance.",
+      "STEP1_TITLE": "Your Three Apps",
+      "STEP1_TEXT": "Here you can switch between your three apps: Dashboard, Game Plan and Journal. We will now show you how to get started with the Dashboard.",
+      "STEP2_TITLE": "Your Accounts",
+      "STEP2_TEXT": "Use the dropdown menu to select an account you want to review.",
+      "STEP3_TITLE": "Core metrics",
+      "STEP3_TEXT": "Here are your six core metrics. Click on a metric to bring up corresponding charts.",
+      "STEP4_TITLE": "Date Range",
+      "STEP4_TEXT": "Here you can select a date range. Choose between looking at a specific period (e.g. 1 day, 1 month, 1 year) or select a custom date range using the calendar widget.",
+      "STEP5_TITLE": "Get Started",
+      "STEP5_TEXT": "Dive in and get familiar with your metrics! When you are comfortable with the Dashboard, you can move on to the Game Plan where we'll show you around as well."
+    },
+    "GAMEPLAN_TOUR": {
+      "STEP1_TITLE": "Your Edges",
+      "STEP1_TEXT": "Here you can switch between different strategy and timing edges.",
+      "STEP2_TITLE": "Finding edge",
+      "STEP2_TEXT": "If you click on the average P&L box, you will see that the chart indicates positive and negative habits with purple and orange bars. The more trades you have, the more likely we are to find reliable habits."
+    },
+    "JOURNAL_TOUR": {
+      "STEP1_TITLE": "Product Filter",
+      "STEP1_TEXT": "Use the product filter to isolate trades for a particular product.",
+      "STEP2_TITLE": "Sorting",
+      "STEP2_TEXT": "Use the arrows next to each field to sort your trades by P&L, dates, duration, etc."
+    }
+  },
+  "PREFERENCES": {
+    "OPTIN": {
+      "STAY_IN_TOUCH": "Let's Stay in Touch",
+      "EMAIL_USE": "Chasing Returns aims to deliver up-to-date news on our features and resources, and share tips and insights with traders using our products. If you'd like to hear from us, please select the types of messages you would like to receive.",
+      "FEATURES": "Feature announcements",
+      "TIPS": "Tips and insights",
+      "OFFERS": "Product offers"
+    }
+  },
+  "WHITELABEL": {
+    "FINISH_REGISTRATION": "Finish Registration",
+    "REGISTER_EMAIL": "Register your email",
+    "THANK_YOU": "Thank you",
+    "SENT_EMAIL": "Please check your email for a link to login."
+  },
+
+  "PAGE_TITLES": {
+    "products": "Does your performance change for different products?",
+    "assetClass": "Does your performance change for different asset classes?",
+    "size": "Does your performance change based on the size of your trades?",
+    "longShort": "Does your performance change trading long versus trading short?",
+    "tradeDuration": "Does your performance change based on the duration of your trades?",
+    "tradeDurationStyle": "Does your performance change based on the duration of your trades?",
+    "tradeDurationDay": "Does your performance change based on the duration of your trades?",
+    "timeDay": "Does your performance change based on the time of the day?",
+    "timeDayFixed": "Does your performance change based on the time of the day?",
+    "hoursEntry": "Does your performance change based on the time of the day?",
+    "halfHoursEntry": "Does your performance change based on the time of the day?",
+    "tags": "",
+    "dayWeekEntry": "Does your performance change based on the day of the week?",
+    "monthsEntry": "Does your performance change based on the month you are trading?",
+    "intradayVelocityOverviewEntry": "Is your performance different when you re-enter the market quickly?",
+    "intradayVelocityEntry": "Does your performance depend on how quickly you re-enter the market?",
+    "velocityEntry": "",
+    "intradayTradeFrequencyOverviewEntry": "Is your performance different on the first trade of the day?",
+    "intradayTradeFrequencyEntry": "Does your performance change as you do more trades in a single day?",
+    "intradayConsecutiveWinnersLosersOverviewEntry": "Does opening a trade during a streak impact your performance?",
+    "intradayConsecutiveWinnersEntry": "Does your performance change if you just closed one or more winners?",
+    "consecutiveWinnersEntry": "",
+    "intradayConsecutiveLosersEntry": "Does your performance change if you just closed one or more losers?",
+    "consecutiveLosersEntry": "",
+    "parallelOpenProductsOverviewEntry": "Does your performance change when you manage multiple positions?",
+    "parallelOpenProductsEntry": "Does your performance change as you open multiple positions?",
+    "nfpEntry": "",
+
+    "navigator": "Where do I make and lose the most money?"
+  },
+
+  "JOURNAL_MODAL": {
+    "TITLE":  "Trades for {edge}: {habit}"
+  },
+
+  "USER_GOAL_VALIDATION_ERRORS" : {
+    "VALUE_SHOULD_BE_GREATER_THAN_ZERO": "Please enter a value above zero",
+    "VALUE_SHOULD_BE_BETWEEN_1_AND_99": "Please enter a value between 1% and 99%",
+    "VALUE_SHOULD_BE_BETWEEN_0_AND_100": "Please enter a value between 0% and 100%",
+    "RISK_REWARD_TOO_HIGH": "This risk:reward target is too high for your current performance goal. Please increase your performance goal or decrease your risk:reward target.",
+    "RISK_REWARD_TOO_LOW": "This risk reward target is too low for your current performance goal. Please decrease your performance goal or increase your risk:reward target.",
+    "WIN_RATE_TOO_HIGH": "This win rate target is too high for your current performance goal. Please increase your performance goal or decrease your win rate target."
+  },
+
+  "GOAL_TYPES": {
+    "GOAL": "Goal",
+    "TARGET": "Target"
+  },
+
+  "MT4_LOGIN": {
+    "ACCOUNT_NUMBER": "MT4 account number (811...)",
+    "PASSWORD": "Investor password",
+    "LOGIN": "Login",
+    "SIGN_UP": "Register for investor password",
+    "FORGOT_PASSWORD": "Forgotten password?",
+    "MESSAGE":"If you're connecting for the first time, please click the Sign Up button.",
+    "FAILED_LOGIN": "Invalid account number or password",
+    "FAILED_LOGIN_IP": "Invalid account number or IP Address",
+    "GATEWAY_TIMEOUT": "There is a connection problem. Please try again later or contact OANDA customer support.",
+    "BVI_LOGIN": "Connect to Trading Performace"
+  },
+
+  "LOADING_MESSAGES": {
+    "LOADING_TRADES": "Please wait while we load your trades",
+    "FIRST_TIME_LOGIN": "Please wait while we load your trades. This might take several minutes on your first login",
+    "LOADING_ACCOUNTS": "Loading account {count} of {total}"
+  },
+
+  "METRIC_SHORT_NAMES": {
+    "battingAverage": "WR",
+    "riskReward": "RR",
+    "dispositionRatio": "DR"
+  },
+
+  "STRENGTH": "Strength",
+  "WEAKNESS": "Weakness",
+  "METRIC_IN_STRENGTHS_AND_WEAKNESSES": "{metric} based on strengths and weaknesses",
+  "EDGES": "Edges",
+
+  "TIER_MESSAGES": {
+    "EDGE_UNLOCKS": "Unlocks at {numberOfTrades} trades",
+    "EDGE_UNLOCKS_EXPLANATION": "Your {edges} will unlock when you close {numberOfTrades} trades",
+    "CONGRATULATIONS": "Congratulations",
+    "TIMING_EDGES_UNLOCKED": "You have reached 100 trades.  We are now unlocking timing edges for deeper insights based on the time you trade.",
+    "PSYCHOLOGICAL_EDGES_UNLOCKED": "You have reached 200 trades. We are now unlocking psychological edges for deeper insights into your emotional trading.",
+    "ANALYSE_NEW_EDGES": "Analyse New Edges"
+  },
+  "NO_EDGE_CHART_TEXT": {
+    "trades": "No data to display",
+    "totalPnl": "No data to display",
+    "expectancy": "There isn’t enough data to look at performance",
+    "battingAverage": "There isn’t enough data to look at win rate",
+    "riskReward": "There isn’t enough data to look at risk:reward",
+    "dispositionRatio": "There isn’t enough data to look at disposition"
+  },
+  "TODAYS_LEVELS": "Today's levels",
+  "GO_TO":  "Go to {location}",
+  "OPEN": "Open",
+  "CLOSED": "Closed",
+  "TARGET_SCORE": "Target score",
+
+  "DAILY_STATEMENT": {
+    "TODAY": "Today",
+    "PLAN": "Plan",
+    "MAX_TODAY": "Max today",
+    "DISCIPLINED_CLOSED_TRADES": "On-target closed trades",
+    "UNDISCIPLINED_CLOSED_TRADES": "Off-target closed trades",
+    "DISCIPLINED_OPENED_TRADES": "On-target open trades",
+    "UNDISCIPLINED_OPENED_TRADES": "Off-target open trades",
+    "STATEMENT_DETAILS": "Statement details",
+    "ACCOUNT_NUMBER": "Account number",
+    "STATEMENT_PERIOD": "Statement period",
+    "DAILY_SUMMARY": "Daily summary",
+    "OPENING_ACCOUNT_BALANCE": "Opening account balance",
+    "REALISED_PNL": "Realized P&L",
+    "UNREALISED_PNL": "Unrealized P&L",
+    "FEES": "Financing & commissions",
+    "DEPOSITS": "Deposits / Withdrawals",
+    "OPENING_BALANCE": "Opening balance",
+    "CLOSING_BALANCE": "Closing balance",
+    "TRADES_OPENED": "Trades opened",
+    "TRADES_CLOSED": "Trades closed",
+    "OPEN_TRADES": "Open trades",
+    "TODAYS_TARGET_SCORE": "Today's target score",
+    "TODAYS_TARGET_PERFORMANCE": "Today's target performance",
+    "CLOSED_TRADES": "Closed trades",
+    "OPEN_TRADES": "Open trades",
+
+    "dailyLoss": "Daily loss limit",
+    "losingStreak": "Losing streak limit",
+    "openTrades": "Open trades limit",
+    "tradeLoss": "Trade loss limit",
+    "tradeProfit": "Trade profit target",
+
+    "CLOSED_TRADES_PROFITABILITY": "Closed trades profitability",
+    "CLOSED_TRADES_CUMULATIVE_PNL": "Closed trades cumulative P&L",
+
+    "PAGE_TITLES": {
+      "TODAYS_PERFORMANCE_REVIEW": "Performance review",
+      "TODAYS_TARGET_SCORE_REVIEW": "Target score review"
+    },
+
+    "TARGET_SCORE_REVIEW": {
+      "losingStreak": "{value} days",
+
+      "NUMBER_TITLES": {
+        "disciplineScore": "Overall target score",
+        "streak": "On-target streak",
+        "disciplinedTrades": "On-target P&L",
+        "unDisciplinedTrades": "Off-target P&L"
+      },
+
+      "REVIEW_YOUR_TARGETS": {
+        "TITLE": "Review your targets at the beginning of each day to stay on track.",
+        "BUTTON": "Review today's targets"
+      }
+    }
+  }
+}

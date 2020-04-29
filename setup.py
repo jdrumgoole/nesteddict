@@ -125,4 +125,12 @@ setup(
     cmdclass={
         'upload': UploadCommand,
     },
+    entry_points={
+        'console_scripts': [
+            'dld=nesteddict.dictlistdict:main',
+            # 'splitfile=pymongoimport.splitfile:split_file_main',
+            # 'pymultiimport=pymongoimport.pymongomultiimport_main:multi_import',
+            # 'pwc=pymongoimport.pwc:pwc',
+        ]
+    },
 )
