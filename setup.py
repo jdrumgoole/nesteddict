@@ -18,7 +18,7 @@ URL = 'https://github.com/jdrumgoole/nesteddict'
 EMAIL = 'joe@joedrumgoole.com'
 AUTHOR = 'Joe Drumgoole'
 REQUIRES_PYTHON = '>=3.5.0'
-VERSION = "0.1.2a1"
+VERSION = "0.1.2a2"
 
 # What packages are required for this module to be executed?
 REQUIRED = []
@@ -100,9 +100,7 @@ setup(
     author_email=EMAIL,
     python_requires=REQUIRES_PYTHON,
     url=URL,
-    packages=find_packages(exclude=('tests',)),
-    # If your package is a single module, use this instead of 'packages':
-    # py_modules=['mypackage'],
+    py_modules=['nesteddict', "dictlistdict"],
 
     # entry_points={
     #     'console_scripts': ['mycli=mymodule:cli'],
