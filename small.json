@@ -1,0 +1,27 @@
+{
+  "UPLOAD_HELP": {
+    "TITLE": "Importing your trade history from {broker}",
+    "GENERIC": {
+      "TITLE": "Importing your trade history using custom upload",
+      "STEP_1_TEXT": "If you are currently not trading on one of our supported brokers, you can still take advantage of our trade log analysis.",
+      "STEP_2_TEXT": "To do this, you need to save your trade log in the below format.",
+      "STEP_3_TEXT": "There is a sample on the Upload screen to help you, simply select 'Download Sample', replace the sample data with your own, and ensure that each row has consistent formats — particularly date and time formats.",
+      "STEP_4_TEXT": "This upload supports and ONE of the following currencies: EUR, GBP, USD. All trades must be in the same currency.",
+      "STEP_5_TEXT": "If you have any difficulty please email support@chasingreturns.com and we will be happy to help.",
+      "STEP_6_TEXT": "Note: If you are saving your CSV from Excel on Mac OS X, please make sure to choose the option 'Save as Windows Comma Separated (.csv)' to avoid issues.",
+      "STEP_7_TEXT": "Optional: You are able to tag strategy. Create a new column after the default ones and tag as 'Strategy A', 'Strategy B' or 'Strategy C'."
+    },
+    "IG": {
+      "TITLE": "Importing your trade history from IG",
+      "STEP_1_TEXT": "Login to your IG account.",
+      "STEP_2_TEXT": "Select the account you want to export data from.",
+      "STEP_3_TEXT": "Select 'History' from the left panel.",
+      "STEP_4_TEXT": "Select 'Transactions' in the show menu and select the desired export period.",
+      "STEP_5_TEXT": "Click the 'Download History' button.",
+      "STEP_6_TEXT": "Log in to your Chasing Returns account, select 'Import' on the menu and click on 'Select' as shown below.",
+      "STEP_7_TEXT": "The 'Open' dialog box pops up. Choose your trade history file and click on 'Open'.",
+      "STEP_8_TEXT": "If you need any help, please contact support@chasingreturns.com.",
+      "UPLOAD_NOTE_TEXT": "Note: IG has a limit of 1000 trades per download. You can use the custom date filter to download in batches and get all of your trades."
+    }
+  }
+}
